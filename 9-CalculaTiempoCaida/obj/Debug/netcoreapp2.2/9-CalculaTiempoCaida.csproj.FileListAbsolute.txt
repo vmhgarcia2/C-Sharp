@@ -1,0 +1,11 @@
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\9-CalculaTiempoCaida\obj\Debug\netcoreapp2.2\9-CalculaTiempoCaida.csprojAssemblyReference.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\9-CalculaTiempoCaida\obj\Debug\netcoreapp2.2\9-CalculaTiempoCaida.csproj.CoreCompileInputs.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\9-CalculaTiempoCaida\obj\Debug\netcoreapp2.2\9-CalculaTiempoCaida.AssemblyInfoInputs.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\9-CalculaTiempoCaida\obj\Debug\netcoreapp2.2\9-CalculaTiempoCaida.AssemblyInfo.cs
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\9-CalculaTiempoCaida\bin\Debug\netcoreapp2.2\9-CalculaTiempoCaida.deps.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\9-CalculaTiempoCaida\bin\Debug\netcoreapp2.2\9-CalculaTiempoCaida.runtimeconfig.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\9-CalculaTiempoCaida\bin\Debug\netcoreapp2.2\9-CalculaTiempoCaida.runtimeconfig.dev.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\9-CalculaTiempoCaida\bin\Debug\netcoreapp2.2\9-CalculaTiempoCaida.dll
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\9-CalculaTiempoCaida\bin\Debug\netcoreapp2.2\9-CalculaTiempoCaida.pdb
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\9-CalculaTiempoCaida\obj\Debug\netcoreapp2.2\9-CalculaTiempoCaida.dll
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\9-CalculaTiempoCaida\obj\Debug\netcoreapp2.2\9-CalculaTiempoCaida.pdb
