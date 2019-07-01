@@ -36,6 +36,19 @@ namespace _4_piramide
                 Console.WriteLine(simbolo);
                 simbolo="";
             }
+            Console.WriteLine("Otra forma2");
+            Console.WriteLine("----------");                        
+            for(int i=1;i<=Convert.ToInt16(args[0]);i++) {
+                simbolo=new string(Convert.ToChar(args[1]),i);
+                Console.WriteLine(simbolo);
+            }
+            for(int i=Convert.ToInt16(args[0]);i>=0;i--) {
+                simbolo=new string(Convert.ToChar(args[1]),i);
+                Console.WriteLine(simbolo);
+            }
+
+
+
         }
     }
 }
