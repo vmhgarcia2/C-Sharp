@@ -1,0 +1,11 @@
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\13-InvertirCifra\obj\Debug\netcoreapp2.2\13-InvertirCifra.csprojAssemblyReference.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\13-InvertirCifra\obj\Debug\netcoreapp2.2\13-InvertirCifra.csproj.CoreCompileInputs.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\13-InvertirCifra\obj\Debug\netcoreapp2.2\13-InvertirCifra.AssemblyInfoInputs.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\13-InvertirCifra\obj\Debug\netcoreapp2.2\13-InvertirCifra.AssemblyInfo.cs
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\13-InvertirCifra\bin\Debug\netcoreapp2.2\13-InvertirCifra.deps.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\13-InvertirCifra\bin\Debug\netcoreapp2.2\13-InvertirCifra.runtimeconfig.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\13-InvertirCifra\bin\Debug\netcoreapp2.2\13-InvertirCifra.runtimeconfig.dev.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\13-InvertirCifra\bin\Debug\netcoreapp2.2\13-InvertirCifra.dll
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\13-InvertirCifra\bin\Debug\netcoreapp2.2\13-InvertirCifra.pdb
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\13-InvertirCifra\obj\Debug\netcoreapp2.2\13-InvertirCifra.dll
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\13-InvertirCifra\obj\Debug\netcoreapp2.2\13-InvertirCifra.pdb
