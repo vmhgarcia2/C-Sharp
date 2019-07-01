@@ -686,28 +686,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\formacion.GTT\\.nuget\\packages\\": {},
+    "C:\\Users\\Veronica\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\5-romanos\\5-romanos.csproj",
+      "projectUniqueName": "C:\\Users\\Veronica\\Documents\\cursoGTT\\CursoGTT\\5-romanos\\5-romanos.csproj",
       "projectName": "5-romanos",
-      "projectPath": "C:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\5-romanos\\5-romanos.csproj",
-      "packagesPath": "C:\\Users\\formacion.GTT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\5-romanos\\obj\\",
+      "projectPath": "C:\\Users\\Veronica\\Documents\\cursoGTT\\CursoGTT\\5-romanos\\5-romanos.csproj",
+      "packagesPath": "C:\\Users\\Veronica\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Veronica\\Documents\\cursoGTT\\CursoGTT\\5-romanos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\formacion.GTT\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Veronica\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
