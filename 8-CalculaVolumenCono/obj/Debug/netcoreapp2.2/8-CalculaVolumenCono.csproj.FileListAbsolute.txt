@@ -1,0 +1,11 @@
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\8-CalculaVolumenCono\bin\Debug\netcoreapp2.2\8-CalculaVolumenCono.deps.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\8-CalculaVolumenCono\bin\Debug\netcoreapp2.2\8-CalculaVolumenCono.runtimeconfig.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\8-CalculaVolumenCono\bin\Debug\netcoreapp2.2\8-CalculaVolumenCono.runtimeconfig.dev.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\8-CalculaVolumenCono\bin\Debug\netcoreapp2.2\8-CalculaVolumenCono.dll
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\8-CalculaVolumenCono\bin\Debug\netcoreapp2.2\8-CalculaVolumenCono.pdb
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\8-CalculaVolumenCono\obj\Debug\netcoreapp2.2\8-CalculaVolumenCono.csprojAssemblyReference.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\8-CalculaVolumenCono\obj\Debug\netcoreapp2.2\8-CalculaVolumenCono.csproj.CoreCompileInputs.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\8-CalculaVolumenCono\obj\Debug\netcoreapp2.2\8-CalculaVolumenCono.AssemblyInfoInputs.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\8-CalculaVolumenCono\obj\Debug\netcoreapp2.2\8-CalculaVolumenCono.AssemblyInfo.cs
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\8-CalculaVolumenCono\obj\Debug\netcoreapp2.2\8-CalculaVolumenCono.dll
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\8-CalculaVolumenCono\obj\Debug\netcoreapp2.2\8-CalculaVolumenCono.pdb
