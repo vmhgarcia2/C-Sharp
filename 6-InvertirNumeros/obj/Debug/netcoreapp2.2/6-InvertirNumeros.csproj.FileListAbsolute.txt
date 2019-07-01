@@ -1,0 +1,11 @@
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\6-InvertirNumeros\obj\Debug\netcoreapp2.2\6-InvertirNumeros.csprojAssemblyReference.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\6-InvertirNumeros\obj\Debug\netcoreapp2.2\6-InvertirNumeros.csproj.CoreCompileInputs.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\6-InvertirNumeros\obj\Debug\netcoreapp2.2\6-InvertirNumeros.AssemblyInfoInputs.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\6-InvertirNumeros\obj\Debug\netcoreapp2.2\6-InvertirNumeros.AssemblyInfo.cs
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\6-InvertirNumeros\bin\Debug\netcoreapp2.2\6-InvertirNumeros.deps.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\6-InvertirNumeros\bin\Debug\netcoreapp2.2\6-InvertirNumeros.runtimeconfig.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\6-InvertirNumeros\bin\Debug\netcoreapp2.2\6-InvertirNumeros.runtimeconfig.dev.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\6-InvertirNumeros\bin\Debug\netcoreapp2.2\6-InvertirNumeros.dll
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\6-InvertirNumeros\bin\Debug\netcoreapp2.2\6-InvertirNumeros.pdb
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\6-InvertirNumeros\obj\Debug\netcoreapp2.2\6-InvertirNumeros.dll
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\6-InvertirNumeros\obj\Debug\netcoreapp2.2\6-InvertirNumeros.pdb
