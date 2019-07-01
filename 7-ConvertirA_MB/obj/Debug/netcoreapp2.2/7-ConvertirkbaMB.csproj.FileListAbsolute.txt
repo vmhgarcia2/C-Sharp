@@ -1,0 +1,11 @@
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\7-ConvertirkbaMB\bin\Debug\netcoreapp2.2\7-ConvertirkbaMB.deps.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\7-ConvertirkbaMB\bin\Debug\netcoreapp2.2\7-ConvertirkbaMB.runtimeconfig.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\7-ConvertirkbaMB\bin\Debug\netcoreapp2.2\7-ConvertirkbaMB.runtimeconfig.dev.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\7-ConvertirkbaMB\bin\Debug\netcoreapp2.2\7-ConvertirkbaMB.dll
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\7-ConvertirkbaMB\bin\Debug\netcoreapp2.2\7-ConvertirkbaMB.pdb
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\7-ConvertirkbaMB\obj\Debug\netcoreapp2.2\7-ConvertirkbaMB.csprojAssemblyReference.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\7-ConvertirkbaMB\obj\Debug\netcoreapp2.2\7-ConvertirkbaMB.csproj.CoreCompileInputs.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\7-ConvertirkbaMB\obj\Debug\netcoreapp2.2\7-ConvertirkbaMB.AssemblyInfoInputs.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\7-ConvertirkbaMB\obj\Debug\netcoreapp2.2\7-ConvertirkbaMB.AssemblyInfo.cs
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\7-ConvertirkbaMB\obj\Debug\netcoreapp2.2\7-ConvertirkbaMB.dll
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\7-ConvertirkbaMB\obj\Debug\netcoreapp2.2\7-ConvertirkbaMB.pdb
