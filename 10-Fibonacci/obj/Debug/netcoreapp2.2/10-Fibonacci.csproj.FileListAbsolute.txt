@@ -1,0 +1,11 @@
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\10-Fibonacci\obj\Debug\netcoreapp2.2\10-Fibonacci.csprojAssemblyReference.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\10-Fibonacci\obj\Debug\netcoreapp2.2\10-Fibonacci.csproj.CoreCompileInputs.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\10-Fibonacci\obj\Debug\netcoreapp2.2\10-Fibonacci.AssemblyInfoInputs.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\10-Fibonacci\obj\Debug\netcoreapp2.2\10-Fibonacci.AssemblyInfo.cs
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\10-Fibonacci\bin\Debug\netcoreapp2.2\10-Fibonacci.deps.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\10-Fibonacci\bin\Debug\netcoreapp2.2\10-Fibonacci.runtimeconfig.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\10-Fibonacci\bin\Debug\netcoreapp2.2\10-Fibonacci.runtimeconfig.dev.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\10-Fibonacci\bin\Debug\netcoreapp2.2\10-Fibonacci.dll
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\10-Fibonacci\bin\Debug\netcoreapp2.2\10-Fibonacci.pdb
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\10-Fibonacci\obj\Debug\netcoreapp2.2\10-Fibonacci.dll
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\10-Fibonacci\obj\Debug\netcoreapp2.2\10-Fibonacci.pdb
