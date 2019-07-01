@@ -1,0 +1,11 @@
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\11-CalculaPotencia\obj\Debug\netcoreapp2.2\11-CalculaPotencia.csprojAssemblyReference.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\11-CalculaPotencia\obj\Debug\netcoreapp2.2\11-CalculaPotencia.csproj.CoreCompileInputs.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\11-CalculaPotencia\obj\Debug\netcoreapp2.2\11-CalculaPotencia.AssemblyInfoInputs.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\11-CalculaPotencia\obj\Debug\netcoreapp2.2\11-CalculaPotencia.AssemblyInfo.cs
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\11-CalculaPotencia\bin\Debug\netcoreapp2.2\11-CalculaPotencia.deps.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\11-CalculaPotencia\bin\Debug\netcoreapp2.2\11-CalculaPotencia.runtimeconfig.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\11-CalculaPotencia\bin\Debug\netcoreapp2.2\11-CalculaPotencia.runtimeconfig.dev.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\11-CalculaPotencia\bin\Debug\netcoreapp2.2\11-CalculaPotencia.dll
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\11-CalculaPotencia\bin\Debug\netcoreapp2.2\11-CalculaPotencia.pdb
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\11-CalculaPotencia\obj\Debug\netcoreapp2.2\11-CalculaPotencia.dll
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\11-CalculaPotencia\obj\Debug\netcoreapp2.2\11-CalculaPotencia.pdb
