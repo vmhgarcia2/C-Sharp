@@ -1,0 +1,11 @@
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\12-NumNegativosPositivos\bin\Debug\netcoreapp2.2\12-NumNegativosPositivos.deps.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\12-NumNegativosPositivos\bin\Debug\netcoreapp2.2\12-NumNegativosPositivos.runtimeconfig.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\12-NumNegativosPositivos\bin\Debug\netcoreapp2.2\12-NumNegativosPositivos.runtimeconfig.dev.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\12-NumNegativosPositivos\bin\Debug\netcoreapp2.2\12-NumNegativosPositivos.dll
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\12-NumNegativosPositivos\bin\Debug\netcoreapp2.2\12-NumNegativosPositivos.pdb
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\12-NumNegativosPositivos\obj\Debug\netcoreapp2.2\12-NumNegativosPositivos.csprojAssemblyReference.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\12-NumNegativosPositivos\obj\Debug\netcoreapp2.2\12-NumNegativosPositivos.csproj.CoreCompileInputs.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\12-NumNegativosPositivos\obj\Debug\netcoreapp2.2\12-NumNegativosPositivos.AssemblyInfoInputs.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\12-NumNegativosPositivos\obj\Debug\netcoreapp2.2\12-NumNegativosPositivos.AssemblyInfo.cs
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\12-NumNegativosPositivos\obj\Debug\netcoreapp2.2\12-NumNegativosPositivos.dll
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\12-NumNegativosPositivos\obj\Debug\netcoreapp2.2\12-NumNegativosPositivos.pdb
