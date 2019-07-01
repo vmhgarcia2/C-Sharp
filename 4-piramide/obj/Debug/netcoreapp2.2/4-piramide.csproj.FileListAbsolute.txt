@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\4-piramide\obj\Debug\netcoreapp2.2\4-piramide.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\4-piramide\obj\Debug\netcoreapp2.2\4-piramide.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\4-piramide\obj\Debug\netcoreapp2.2\4-piramide.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\4-piramide\obj\Debug\netcoreapp2.2\4-piramide.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\4-piramide\bin\Debug\netcoreapp2.2\4-piramide.deps.json
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\4-piramide\bin\Debug\netcoreapp2.2\4-piramide.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\4-piramide\bin\Debug\netcoreapp2.2\4-piramide.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\4-piramide\bin\Debug\netcoreapp2.2\4-piramide.dll
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\4-piramide\bin\Debug\netcoreapp2.2\4-piramide.pdb
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\4-piramide\obj\Debug\netcoreapp2.2\4-piramide.dll
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\4-piramide\obj\Debug\netcoreapp2.2\4-piramide.pdb

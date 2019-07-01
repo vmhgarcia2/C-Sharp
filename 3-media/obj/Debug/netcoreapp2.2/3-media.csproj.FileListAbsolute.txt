@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\3-media\obj\Debug\netcoreapp2.2\3-media.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\3-media\obj\Debug\netcoreapp2.2\3-media.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\3-media\obj\Debug\netcoreapp2.2\3-media.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\3-media\obj\Debug\netcoreapp2.2\3-media.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\3-media\bin\Debug\netcoreapp2.2\3-media.deps.json
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\3-media\bin\Debug\netcoreapp2.2\3-media.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\3-media\bin\Debug\netcoreapp2.2\3-media.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\3-media\bin\Debug\netcoreapp2.2\3-media.dll
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\3-media\bin\Debug\netcoreapp2.2\3-media.pdb
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\3-media\obj\Debug\netcoreapp2.2\3-media.dll
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\3-media\obj\Debug\netcoreapp2.2\3-media.pdb

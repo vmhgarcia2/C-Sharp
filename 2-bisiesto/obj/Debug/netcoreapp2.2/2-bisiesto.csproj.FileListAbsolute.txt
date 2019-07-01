@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\2-bisiesto\obj\Debug\netcoreapp2.2\2-bisiesto.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\2-bisiesto\obj\Debug\netcoreapp2.2\2-bisiesto.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\2-bisiesto\obj\Debug\netcoreapp2.2\2-bisiesto.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\2-bisiesto\obj\Debug\netcoreapp2.2\2-bisiesto.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\2-bisiesto\bin\Debug\netcoreapp2.2\2-bisiesto.deps.json
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\2-bisiesto\bin\Debug\netcoreapp2.2\2-bisiesto.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\2-bisiesto\bin\Debug\netcoreapp2.2\2-bisiesto.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\2-bisiesto\bin\Debug\netcoreapp2.2\2-bisiesto.dll
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\2-bisiesto\bin\Debug\netcoreapp2.2\2-bisiesto.pdb
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\2-bisiesto\obj\Debug\netcoreapp2.2\2-bisiesto.dll
+C:\Users\formacion.GTT\Desktop\Curso\CursoGTT\2-bisiesto\obj\Debug\netcoreapp2.2\2-bisiesto.pdb
