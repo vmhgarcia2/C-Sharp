@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\14-Arrays\bin\Debug\netcoreapp2.2\14-Arrays.deps.json
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\14-Arrays\bin\Debug\netcoreapp2.2\14-Arrays.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\14-Arrays\bin\Debug\netcoreapp2.2\14-Arrays.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\14-Arrays\bin\Debug\netcoreapp2.2\14-Arrays.dll
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\14-Arrays\bin\Debug\netcoreapp2.2\14-Arrays.pdb
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\14-Arrays\obj\Debug\netcoreapp2.2\14-Arrays.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\14-Arrays\obj\Debug\netcoreapp2.2\14-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\14-Arrays\obj\Debug\netcoreapp2.2\14-Arrays.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\14-Arrays\obj\Debug\netcoreapp2.2\14-Arrays.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\14-Arrays\obj\Debug\netcoreapp2.2\14-Arrays.dll
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\14-Arrays\obj\Debug\netcoreapp2.2\14-Arrays.pdb

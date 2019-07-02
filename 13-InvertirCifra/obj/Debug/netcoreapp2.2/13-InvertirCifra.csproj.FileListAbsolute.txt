@@ -9,3 +9,14 @@ c:\Users\Veronica\Documents\cursoGTT\CursoGTT\13-InvertirCifra\bin\Debug\netcore
 c:\Users\Veronica\Documents\cursoGTT\CursoGTT\13-InvertirCifra\bin\Debug\netcoreapp2.2\13-InvertirCifra.pdb
 c:\Users\Veronica\Documents\cursoGTT\CursoGTT\13-InvertirCifra\obj\Debug\netcoreapp2.2\13-InvertirCifra.dll
 c:\Users\Veronica\Documents\cursoGTT\CursoGTT\13-InvertirCifra\obj\Debug\netcoreapp2.2\13-InvertirCifra.pdb
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\13-InvertirCifra\bin\Debug\netcoreapp2.2\13-InvertirCifra.deps.json
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\13-InvertirCifra\bin\Debug\netcoreapp2.2\13-InvertirCifra.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\13-InvertirCifra\bin\Debug\netcoreapp2.2\13-InvertirCifra.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\13-InvertirCifra\bin\Debug\netcoreapp2.2\13-InvertirCifra.dll
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\13-InvertirCifra\bin\Debug\netcoreapp2.2\13-InvertirCifra.pdb
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\13-InvertirCifra\obj\Debug\netcoreapp2.2\13-InvertirCifra.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\13-InvertirCifra\obj\Debug\netcoreapp2.2\13-InvertirCifra.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\13-InvertirCifra\obj\Debug\netcoreapp2.2\13-InvertirCifra.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\13-InvertirCifra\obj\Debug\netcoreapp2.2\13-InvertirCifra.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\13-InvertirCifra\obj\Debug\netcoreapp2.2\13-InvertirCifra.dll
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\13-InvertirCifra\obj\Debug\netcoreapp2.2\13-InvertirCifra.pdb

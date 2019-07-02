@@ -20,3 +20,14 @@ C:\Users\Veronica\Documents\cursoGTT\CursoGTT\5-romanos\obj\Debug\netcoreapp2.2\
 C:\Users\Veronica\Documents\cursoGTT\CursoGTT\5-romanos\obj\Debug\netcoreapp2.2\5-romanos.AssemblyInfo.cs
 C:\Users\Veronica\Documents\cursoGTT\CursoGTT\5-romanos\obj\Debug\netcoreapp2.2\5-romanos.dll
 C:\Users\Veronica\Documents\cursoGTT\CursoGTT\5-romanos\obj\Debug\netcoreapp2.2\5-romanos.pdb
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\05-romanos\obj\Debug\netcoreapp2.2\5-romanos.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\05-romanos\obj\Debug\netcoreapp2.2\5-romanos.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\05-romanos\obj\Debug\netcoreapp2.2\5-romanos.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\05-romanos\obj\Debug\netcoreapp2.2\5-romanos.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\05-romanos\obj\Debug\netcoreapp2.2\5-romanos.dll
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\05-romanos\obj\Debug\netcoreapp2.2\5-romanos.pdb
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\05-romanos\bin\Debug\netcoreapp2.2\5-romanos.deps.json
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\05-romanos\bin\Debug\netcoreapp2.2\5-romanos.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\05-romanos\bin\Debug\netcoreapp2.2\5-romanos.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\05-romanos\bin\Debug\netcoreapp2.2\5-romanos.dll
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\05-romanos\bin\Debug\netcoreapp2.2\5-romanos.pdb

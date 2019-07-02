@@ -1,6 +1,6 @@
 ﻿/* Escriba un método que imprima la representación de su parámetro entero en números romanos. Por ejemplo, si el parámetro es 1998, la salida debe ser MCMXCVIII
-using System;
  */
+ using System;
 namespace _5_romanos
 {
     class Program
@@ -12,7 +12,7 @@ namespace _5_romanos
             //Millares
             if(Convert.ToInt32(numero)/1000>0){
                 //Console.WriteLine(Convert.ToInt32(numero)/1000);
-                switch(Convert.ToInt32(numero)/1000){
+                switch(Convert.ToInt32(numero)/1000){ 
                     case 1:
                     case 2:
                     case 3:
