@@ -26,7 +26,7 @@ namespace _19_Cuadrado
                         }
                         else{
                             if(cuadrado[i,j]!="* ") {
-                                cuadrado[i,j]="* ";
+                                cuadrado[i,j]="  ";
                             }
                         }
                     }
