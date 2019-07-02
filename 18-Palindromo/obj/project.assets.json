@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Veronica\\Documents\\cursoGTT\\CursoGTT\\17-esPrimo\\17-esPrimo.csproj",
-      "projectName": "17-esPrimo",
-      "projectPath": "c:\\Users\\Veronica\\Documents\\cursoGTT\\CursoGTT\\17-esPrimo\\17-esPrimo.csproj",
+      "projectUniqueName": "c:\\Users\\Veronica\\Documents\\cursoGTT\\CursoGTT\\18-Palindromo\\18-Palindromo.csproj",
+      "projectName": "18-Palindromo",
+      "projectPath": "c:\\Users\\Veronica\\Documents\\cursoGTT\\CursoGTT\\18-Palindromo\\18-Palindromo.csproj",
       "packagesPath": "C:\\Users\\Veronica\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Veronica\\Documents\\cursoGTT\\CursoGTT\\17-esPrimo\\obj\\",
+      "outputPath": "c:\\Users\\Veronica\\Documents\\cursoGTT\\CursoGTT\\18-Palindromo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

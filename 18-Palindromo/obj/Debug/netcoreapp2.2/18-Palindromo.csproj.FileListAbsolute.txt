@@ -1,0 +1,11 @@
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\18-Palindromo\bin\Debug\netcoreapp2.2\18-Palindromo.deps.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\18-Palindromo\bin\Debug\netcoreapp2.2\18-Palindromo.runtimeconfig.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\18-Palindromo\bin\Debug\netcoreapp2.2\18-Palindromo.runtimeconfig.dev.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\18-Palindromo\bin\Debug\netcoreapp2.2\18-Palindromo.dll
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\18-Palindromo\bin\Debug\netcoreapp2.2\18-Palindromo.pdb
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\18-Palindromo\obj\Debug\netcoreapp2.2\18-Palindromo.csprojAssemblyReference.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\18-Palindromo\obj\Debug\netcoreapp2.2\18-Palindromo.csproj.CoreCompileInputs.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\18-Palindromo\obj\Debug\netcoreapp2.2\18-Palindromo.AssemblyInfoInputs.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\18-Palindromo\obj\Debug\netcoreapp2.2\18-Palindromo.AssemblyInfo.cs
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\18-Palindromo\obj\Debug\netcoreapp2.2\18-Palindromo.dll
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\18-Palindromo\obj\Debug\netcoreapp2.2\18-Palindromo.pdb

@@ -9,3 +9,14 @@ C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\17-esPrimo\bin\Debug\netcoreapp2.2
 C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\17-esPrimo\bin\Debug\netcoreapp2.2\17-esPrimo.pdb
 C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\17-esPrimo\obj\Debug\netcoreapp2.2\17-esPrimo.dll
 C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\17-esPrimo\obj\Debug\netcoreapp2.2\17-esPrimo.pdb
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\17-esPrimo\bin\Debug\netcoreapp2.2\17-esPrimo.deps.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\17-esPrimo\bin\Debug\netcoreapp2.2\17-esPrimo.runtimeconfig.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\17-esPrimo\bin\Debug\netcoreapp2.2\17-esPrimo.runtimeconfig.dev.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\17-esPrimo\bin\Debug\netcoreapp2.2\17-esPrimo.dll
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\17-esPrimo\bin\Debug\netcoreapp2.2\17-esPrimo.pdb
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\17-esPrimo\obj\Debug\netcoreapp2.2\17-esPrimo.csprojAssemblyReference.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\17-esPrimo\obj\Debug\netcoreapp2.2\17-esPrimo.csproj.CoreCompileInputs.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\17-esPrimo\obj\Debug\netcoreapp2.2\17-esPrimo.AssemblyInfoInputs.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\17-esPrimo\obj\Debug\netcoreapp2.2\17-esPrimo.AssemblyInfo.cs
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\17-esPrimo\obj\Debug\netcoreapp2.2\17-esPrimo.dll
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\17-esPrimo\obj\Debug\netcoreapp2.2\17-esPrimo.pdb

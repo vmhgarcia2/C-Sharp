@@ -8,12 +8,14 @@ namespace _17_esPrimo
     {
         static void Main(string[] args)
         {
-            int numero=Convert.ToInt16(args[0]);
-            if(esPrimo(numero)){
-                Console.WriteLine("El número " + numero + " es primo");
-            }        
-            else{
-                Console.WriteLine("El número " + numero + "  no es primo");
+            if(args.Length>0) {
+                int numero=Convert.ToInt16(args[0]);
+                if(esPrimo(numero)){
+                    Console.WriteLine("El número " + numero + " es primo");
+                }        
+                else{
+                    Console.WriteLine("El número " + numero + "  no es primo");
+                }
             }
         }
 
