@@ -82,7 +82,7 @@ namespace _14_Arrays
             do {
                 Console.Write("Indica tu edad:");
                 edad=Convert.ToInt16(Console.ReadLine());
-            } while (edad<18);
+            } while (edad<18); 
         }
     }
 }

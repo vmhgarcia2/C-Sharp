@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\15-Quiniela\bin\Debug\netcoreapp2.2\15-Quiniela.deps.json
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\15-Quiniela\bin\Debug\netcoreapp2.2\15-Quiniela.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\15-Quiniela\bin\Debug\netcoreapp2.2\15-Quiniela.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\15-Quiniela\bin\Debug\netcoreapp2.2\15-Quiniela.dll
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\15-Quiniela\bin\Debug\netcoreapp2.2\15-Quiniela.pdb
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\15-Quiniela\obj\Debug\netcoreapp2.2\15-Quiniela.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\15-Quiniela\obj\Debug\netcoreapp2.2\15-Quiniela.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\15-Quiniela\obj\Debug\netcoreapp2.2\15-Quiniela.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\15-Quiniela\obj\Debug\netcoreapp2.2\15-Quiniela.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\15-Quiniela\obj\Debug\netcoreapp2.2\15-Quiniela.dll
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\15-Quiniela\obj\Debug\netcoreapp2.2\15-Quiniela.pdb
