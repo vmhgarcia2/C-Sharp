@@ -1,0 +1,11 @@
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\02072017\19-Cuadrado\bin\Debug\netcoreapp2.2\19-Cuadrado.deps.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\02072017\19-Cuadrado\bin\Debug\netcoreapp2.2\19-Cuadrado.runtimeconfig.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\02072017\19-Cuadrado\bin\Debug\netcoreapp2.2\19-Cuadrado.runtimeconfig.dev.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\02072017\19-Cuadrado\bin\Debug\netcoreapp2.2\19-Cuadrado.dll
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\02072017\19-Cuadrado\bin\Debug\netcoreapp2.2\19-Cuadrado.pdb
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\02072017\19-Cuadrado\obj\Debug\netcoreapp2.2\19-Cuadrado.csprojAssemblyReference.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\02072017\19-Cuadrado\obj\Debug\netcoreapp2.2\19-Cuadrado.csproj.CoreCompileInputs.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\02072017\19-Cuadrado\obj\Debug\netcoreapp2.2\19-Cuadrado.AssemblyInfoInputs.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\02072017\19-Cuadrado\obj\Debug\netcoreapp2.2\19-Cuadrado.AssemblyInfo.cs
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\02072017\19-Cuadrado\obj\Debug\netcoreapp2.2\19-Cuadrado.dll
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\02072017\19-Cuadrado\obj\Debug\netcoreapp2.2\19-Cuadrado.pdb
