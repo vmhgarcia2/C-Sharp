@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\16-ArrayNumeros\obj\Debug\netcoreapp2.2\16-ArrayNumeros.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\16-ArrayNumeros\obj\Debug\netcoreapp2.2\16-ArrayNumeros.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\16-ArrayNumeros\obj\Debug\netcoreapp2.2\16-ArrayNumeros.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\16-ArrayNumeros\obj\Debug\netcoreapp2.2\16-ArrayNumeros.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\16-ArrayNumeros\bin\Debug\netcoreapp2.2\16-ArrayNumeros.deps.json
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\16-ArrayNumeros\bin\Debug\netcoreapp2.2\16-ArrayNumeros.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\16-ArrayNumeros\bin\Debug\netcoreapp2.2\16-ArrayNumeros.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\16-ArrayNumeros\bin\Debug\netcoreapp2.2\16-ArrayNumeros.dll
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\16-ArrayNumeros\bin\Debug\netcoreapp2.2\16-ArrayNumeros.pdb
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\16-ArrayNumeros\obj\Debug\netcoreapp2.2\16-ArrayNumeros.dll
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\16-ArrayNumeros\obj\Debug\netcoreapp2.2\16-ArrayNumeros.pdb
