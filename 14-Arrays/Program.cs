@@ -23,7 +23,7 @@ namespace _14_Arrays
              */
 
              //Tipos enumerados
-            int a=100;
+/*             int a=100;
             int b=10;
             Console.WriteLine("Indica la operación a realizar con los números:" +  a + " y " + b);
             var opciones=Enum.GetValues(typeof(operaciones));
@@ -38,7 +38,51 @@ namespace _14_Arrays
                 case operaciones.Restar: resultado=a-b; break; 
                 case operaciones.Multiplicar: resultado=a*b; break; 
             }
-            Console.WriteLine("El resultado de " + opcion + " " + a + " y " + b + " es " + resultado);
+            Console.WriteLine("El resultado de " + opcion + " " + a + " y " + b + " es " + resultado); */
+            //Forzar que un valor sea null
+
+/*             bool? x=null;
+            bool y=false;
+            try{
+                y=x.Value;
+                Console.WriteLine(y);
+            }
+            catch(InvalidOperationException){
+                Console.WriteLine("Operación no válida");
+            }
+            Console.WriteLine(x.HasValue); */
+
+           //int a=0;
+/*             while(a<10){
+                Console.WriteLine(a+=2);
+            } */
+/*             for(a=0;a<10;a+=2){
+                Console.WriteLine(a);
+            } */
+/*             for(a=0;a<10;a++){
+                Console.WriteLine(a + ((a%3==0)? " es múltiplo de 3":" no es múltiplo 3"));
+            }
+ */
+            //Dos variables del usuario (a y b), siempre a sea la mayor
+/*             Console.Write("Introduce un número: ");
+            int a=Convert.ToInt16(Console.ReadLine());
+            Console.Write("Introduce otro número: ");
+            int b=Convert.ToInt16(Console.ReadLine());
+            int aux=0;
+            Console.WriteLine("Datos introducidos: a=" + a + ", b=" + b);
+            if(a<b){
+                aux=b;
+                b=a;
+                a=aux;
+            }
+            Console.WriteLine("Datos convertidos: a=" + a + ", b=" + b);
+
+ */
+            int edad=0;
+            do {
+                Console.Write("Indica tu edad:");
+                edad=Convert.ToInt16(Console.ReadLine());
+            } while (edad<18);
         }
     }
 }
