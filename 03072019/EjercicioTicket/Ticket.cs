@@ -11,14 +11,16 @@ namespace EjercicioTicket
         private double totalCompra;
         private Linea[] linea;     
     
-        public Ticket():this(DateTime.Today,"",0.0,new Linea[10]){
+        public Ticket():this(DateTime.Today,""){
         }
 
-        public Ticket(DateTime fecha,string nombreSuper,double totalCompra,Linea[] linea){
+        public Ticket(DateTime fecha,string nombreSuper){
             this.setFecha(fecha);
             this.setNombreSuper(nombreSuper);
-            this.setTotalCompra(totalCompra);
-            this.setLinea(linea);
+            linea=new Linea[10];
+            for(int i=0;i<this.linea.Length;i++){
+                this.linea[i]=new Linea();
+            }
         }
 
         public DateTime getFecha() {
@@ -48,11 +50,18 @@ namespace EjercicioTicket
         public Linea[] getLinea() {
             return this.linea;
         }
-
-        public void setLinea(Linea[] linea) {
-            this.linea = linea;
+        public int primeraLineaVacia(){
+            for(int i=0;i<this.linea.Length;i++){
+                if(this.linea[i].getUnidades()==0){
+                    return i;
+                }
+            }
+            return 100;
         }
-
+        public void nuevaLinea(Linea linea){
+            int a=this.primeraLineaVacia();
+            this.linea[a]=linea;
+            totalCompra+=linea.getprecioTotal();
+        }
     }
-
 }

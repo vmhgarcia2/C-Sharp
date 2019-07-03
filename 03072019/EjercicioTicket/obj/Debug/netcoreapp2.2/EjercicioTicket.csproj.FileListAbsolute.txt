@@ -9,3 +9,14 @@ C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\03072019\EjercicioTicket\bin\Debug
 C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\03072019\EjercicioTicket\bin\Debug\netcoreapp2.2\EjercicioTicket.pdb
 C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\03072019\EjercicioTicket\obj\Debug\netcoreapp2.2\EjercicioTicket.dll
 C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\03072019\EjercicioTicket\obj\Debug\netcoreapp2.2\EjercicioTicket.pdb
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\03072019\EjercicioTicket\obj\Debug\netcoreapp2.2\EjercicioTicket.csprojAssemblyReference.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\03072019\EjercicioTicket\obj\Debug\netcoreapp2.2\EjercicioTicket.csproj.CoreCompileInputs.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\03072019\EjercicioTicket\obj\Debug\netcoreapp2.2\EjercicioTicket.AssemblyInfoInputs.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\03072019\EjercicioTicket\obj\Debug\netcoreapp2.2\EjercicioTicket.AssemblyInfo.cs
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\03072019\EjercicioTicket\obj\Debug\netcoreapp2.2\EjercicioTicket.dll
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\03072019\EjercicioTicket\obj\Debug\netcoreapp2.2\EjercicioTicket.pdb
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\03072019\EjercicioTicket\bin\Debug\netcoreapp2.2\EjercicioTicket.deps.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\03072019\EjercicioTicket\bin\Debug\netcoreapp2.2\EjercicioTicket.runtimeconfig.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\03072019\EjercicioTicket\bin\Debug\netcoreapp2.2\EjercicioTicket.runtimeconfig.dev.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\03072019\EjercicioTicket\bin\Debug\netcoreapp2.2\EjercicioTicket.dll
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\03072019\EjercicioTicket\bin\Debug\netcoreapp2.2\EjercicioTicket.pdb

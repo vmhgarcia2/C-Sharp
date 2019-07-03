@@ -31,11 +31,11 @@ namespace EjercicioTicket
             this.precio = precio;
         }
         public double getPeso() {
-            return this.precio;
+            return this.peso;
         }
 
-        public void setPeso(double precio) {
-            this.precio = precio;
+        public void setPeso(double peso) {
+            this.peso = peso;
         }
     }
 }
