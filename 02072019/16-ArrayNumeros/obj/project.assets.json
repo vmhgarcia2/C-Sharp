@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\16-ArrayNumeros\\16-ArrayNumeros.csproj",
+      "projectUniqueName": "c:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\02072019\\16-ArrayNumeros\\16-ArrayNumeros.csproj",
       "projectName": "16-ArrayNumeros",
-      "projectPath": "C:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\16-ArrayNumeros\\16-ArrayNumeros.csproj",
+      "projectPath": "c:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\02072019\\16-ArrayNumeros\\16-ArrayNumeros.csproj",
       "packagesPath": "C:\\Users\\formacion.GTT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\16-ArrayNumeros\\obj\\",
+      "outputPath": "c:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\02072019\\16-ArrayNumeros\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

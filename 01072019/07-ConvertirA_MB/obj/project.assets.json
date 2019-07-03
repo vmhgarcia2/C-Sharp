@@ -686,30 +686,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Veronica\\.nuget\\packages\\": {},
+    "C:\\Users\\formacion.GTT\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Veronica\\Documents\\cursoGTT\\CursoGTT\\7-ConvertirkbaMB\\7-ConvertirkbaMB.csproj",
+      "projectUniqueName": "c:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\01072019\\07-ConvertirA_MB\\7-ConvertirkbaMB.csproj",
       "projectName": "7-ConvertirkbaMB",
-      "projectPath": "c:\\Users\\Veronica\\Documents\\cursoGTT\\CursoGTT\\7-ConvertirkbaMB\\7-ConvertirkbaMB.csproj",
-      "packagesPath": "C:\\Users\\Veronica\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Veronica\\Documents\\cursoGTT\\CursoGTT\\7-ConvertirkbaMB\\obj\\",
+      "projectPath": "c:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\01072019\\07-ConvertirA_MB\\7-ConvertirkbaMB.csproj",
+      "packagesPath": "C:\\Users\\formacion.GTT\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\01072019\\07-ConvertirA_MB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Veronica\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\formacion.GTT\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

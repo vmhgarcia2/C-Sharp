@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\formacion.GTT\\Desktop\\Curso\\CursoGTT\\4-piramide\\4-piramide.csproj",
+      "projectUniqueName": "c:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\01072019\\04-piramide\\4-piramide.csproj",
       "projectName": "4-piramide",
-      "projectPath": "C:\\Users\\formacion.GTT\\Desktop\\Curso\\CursoGTT\\4-piramide\\4-piramide.csproj",
+      "projectPath": "c:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\01072019\\04-piramide\\4-piramide.csproj",
       "packagesPath": "C:\\Users\\formacion.GTT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\formacion.GTT\\Desktop\\Curso\\CursoGTT\\4-piramide\\obj\\",
+      "outputPath": "c:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\01072019\\04-piramide\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\15-Quiniela\\15-Quiniela.csproj",
+      "projectUniqueName": "c:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\02072019\\15-Quiniela\\15-Quiniela.csproj",
       "projectName": "15-Quiniela",
-      "projectPath": "C:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\15-Quiniela\\15-Quiniela.csproj",
+      "projectPath": "c:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\02072019\\15-Quiniela\\15-Quiniela.csproj",
       "packagesPath": "C:\\Users\\formacion.GTT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\15-Quiniela\\obj\\",
+      "outputPath": "c:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\02072019\\15-Quiniela\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

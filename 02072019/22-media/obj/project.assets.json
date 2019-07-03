@@ -686,30 +686,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Veronica\\.nuget\\packages\\": {},
+    "C:\\Users\\formacion.GTT\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Veronica\\Documents\\cursoGTT\\CursoGTT\\02072017\\22-media\\3-media.csproj",
+      "projectUniqueName": "c:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\02072019\\22-media\\3-media.csproj",
       "projectName": "3-media",
-      "projectPath": "c:\\Users\\Veronica\\Documents\\cursoGTT\\CursoGTT\\02072017\\22-media\\3-media.csproj",
-      "packagesPath": "C:\\Users\\Veronica\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Veronica\\Documents\\cursoGTT\\CursoGTT\\02072017\\22-media\\obj\\",
+      "projectPath": "c:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\02072019\\22-media\\3-media.csproj",
+      "packagesPath": "C:\\Users\\formacion.GTT\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\02072019\\22-media\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Veronica\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\formacion.GTT\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

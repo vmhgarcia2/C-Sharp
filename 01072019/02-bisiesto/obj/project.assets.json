@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\formacion.GTT\\Desktop\\Curso\\CursoGTT\\2-bisiesto\\2-bisiesto.csproj",
+      "projectUniqueName": "c:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\01072019\\02-bisiesto\\2-bisiesto.csproj",
       "projectName": "2-bisiesto",
-      "projectPath": "C:\\Users\\formacion.GTT\\Desktop\\Curso\\CursoGTT\\2-bisiesto\\2-bisiesto.csproj",
+      "projectPath": "c:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\01072019\\02-bisiesto\\2-bisiesto.csproj",
       "packagesPath": "C:\\Users\\formacion.GTT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\formacion.GTT\\Desktop\\Curso\\CursoGTT\\2-bisiesto\\obj\\",
+      "outputPath": "c:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\01072019\\02-bisiesto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
