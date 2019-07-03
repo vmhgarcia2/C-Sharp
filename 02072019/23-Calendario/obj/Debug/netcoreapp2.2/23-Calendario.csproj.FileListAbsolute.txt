@@ -9,3 +9,14 @@ c:\Users\Veronica\Documents\cursoGTT\CursoGTT\02072017\23-Calendario\bin\Debug\n
 c:\Users\Veronica\Documents\cursoGTT\CursoGTT\02072017\23-Calendario\bin\Debug\netcoreapp2.2\23-Calendario.pdb
 c:\Users\Veronica\Documents\cursoGTT\CursoGTT\02072017\23-Calendario\obj\Debug\netcoreapp2.2\23-Calendario.dll
 c:\Users\Veronica\Documents\cursoGTT\CursoGTT\02072017\23-Calendario\obj\Debug\netcoreapp2.2\23-Calendario.pdb
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\02072019\23-Calendario\bin\Debug\netcoreapp2.2\23-Calendario.deps.json
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\02072019\23-Calendario\bin\Debug\netcoreapp2.2\23-Calendario.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\02072019\23-Calendario\bin\Debug\netcoreapp2.2\23-Calendario.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\02072019\23-Calendario\bin\Debug\netcoreapp2.2\23-Calendario.dll
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\02072019\23-Calendario\bin\Debug\netcoreapp2.2\23-Calendario.pdb
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\02072019\23-Calendario\obj\Debug\netcoreapp2.2\23-Calendario.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\02072019\23-Calendario\obj\Debug\netcoreapp2.2\23-Calendario.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\02072019\23-Calendario\obj\Debug\netcoreapp2.2\23-Calendario.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\02072019\23-Calendario\obj\Debug\netcoreapp2.2\23-Calendario.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\02072019\23-Calendario\obj\Debug\netcoreapp2.2\23-Calendario.dll
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\02072019\23-Calendario\obj\Debug\netcoreapp2.2\23-Calendario.pdb

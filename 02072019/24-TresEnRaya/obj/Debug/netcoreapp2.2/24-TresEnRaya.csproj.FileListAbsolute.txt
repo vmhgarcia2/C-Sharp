@@ -1,0 +1,4 @@
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\02072019\24-TresEnRaya\obj\Debug\netcoreapp2.2\24-TresEnRaya.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\02072019\24-TresEnRaya\obj\Debug\netcoreapp2.2\24-TresEnRaya.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\02072019\24-TresEnRaya\obj\Debug\netcoreapp2.2\24-TresEnRaya.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\02072019\24-TresEnRaya\obj\Debug\netcoreapp2.2\24-TresEnRaya.AssemblyInfo.cs

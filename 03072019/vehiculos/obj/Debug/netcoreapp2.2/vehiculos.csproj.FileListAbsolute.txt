@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\03072019\vehiculos\bin\Debug\netcoreapp2.2\vehiculos.deps.json
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\03072019\vehiculos\bin\Debug\netcoreapp2.2\vehiculos.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\03072019\vehiculos\bin\Debug\netcoreapp2.2\vehiculos.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\03072019\vehiculos\bin\Debug\netcoreapp2.2\vehiculos.dll
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\03072019\vehiculos\bin\Debug\netcoreapp2.2\vehiculos.pdb
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\03072019\vehiculos\obj\Debug\netcoreapp2.2\vehiculos.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\03072019\vehiculos\obj\Debug\netcoreapp2.2\vehiculos.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\03072019\vehiculos\obj\Debug\netcoreapp2.2\vehiculos.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\03072019\vehiculos\obj\Debug\netcoreapp2.2\vehiculos.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\03072019\vehiculos\obj\Debug\netcoreapp2.2\vehiculos.dll
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\03072019\vehiculos\obj\Debug\netcoreapp2.2\vehiculos.pdb
