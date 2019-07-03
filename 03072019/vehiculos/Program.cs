@@ -13,7 +13,7 @@ namespace Vehiculos
             Vehiculos cocheVerde=new Vehiculos("verde",4);
             System.Console.WriteLine(cocheVerde.getColor());
             System.Console.WriteLine(cocheVerde.getNumRuedas());
-            Console.WriteLine(coche.compararNumBastidor("123456789ABCDEFGH"));
+            Console.WriteLine(coche.compararNumBastidor(coche.getbastidor()));
         }
     }
 }

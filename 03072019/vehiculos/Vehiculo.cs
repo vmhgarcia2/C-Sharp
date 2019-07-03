@@ -107,9 +107,12 @@ namespace Vehiculos
 
         public bool compararNumBastidor(string bas){
             setBastidor();
-            int i=string.Compare(bastidor,bastidor);
+            int i=string.Compare(bas,bastidor);
             return i==0?true:false;
-        }
+        }      
 
+        public string getbastidor(){
+            return bastidor;
+        }
     }
 }

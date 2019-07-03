@@ -686,30 +686,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Veronica\\.nuget\\packages\\": {},
+    "C:\\Users\\formacion.GTT\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Veronica\\Documents\\cursoGTT\\CursoGTT\\18-Palindromo\\18-Palindromo.csproj",
+      "projectUniqueName": "C:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\02072019\\18-Palindromo\\18-Palindromo.csproj",
       "projectName": "18-Palindromo",
-      "projectPath": "c:\\Users\\Veronica\\Documents\\cursoGTT\\CursoGTT\\18-Palindromo\\18-Palindromo.csproj",
-      "packagesPath": "C:\\Users\\Veronica\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Veronica\\Documents\\cursoGTT\\CursoGTT\\18-Palindromo\\obj\\",
+      "projectPath": "C:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\02072019\\18-Palindromo\\18-Palindromo.csproj",
+      "packagesPath": "C:\\Users\\formacion.GTT\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\02072019\\18-Palindromo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Veronica\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\formacion.GTT\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

@@ -9,3 +9,14 @@ c:\Users\Veronica\Documents\cursoGTT\CursoGTT\18-Palindromo\obj\Debug\netcoreapp
 c:\Users\Veronica\Documents\cursoGTT\CursoGTT\18-Palindromo\obj\Debug\netcoreapp2.2\18-Palindromo.AssemblyInfo.cs
 c:\Users\Veronica\Documents\cursoGTT\CursoGTT\18-Palindromo\obj\Debug\netcoreapp2.2\18-Palindromo.dll
 c:\Users\Veronica\Documents\cursoGTT\CursoGTT\18-Palindromo\obj\Debug\netcoreapp2.2\18-Palindromo.pdb
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\02072019\18-Palindromo\bin\Debug\netcoreapp2.2\18-Palindromo.deps.json
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\02072019\18-Palindromo\bin\Debug\netcoreapp2.2\18-Palindromo.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\02072019\18-Palindromo\bin\Debug\netcoreapp2.2\18-Palindromo.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\02072019\18-Palindromo\bin\Debug\netcoreapp2.2\18-Palindromo.dll
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\02072019\18-Palindromo\bin\Debug\netcoreapp2.2\18-Palindromo.pdb
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\02072019\18-Palindromo\obj\Debug\netcoreapp2.2\18-Palindromo.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\02072019\18-Palindromo\obj\Debug\netcoreapp2.2\18-Palindromo.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\02072019\18-Palindromo\obj\Debug\netcoreapp2.2\18-Palindromo.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\02072019\18-Palindromo\obj\Debug\netcoreapp2.2\18-Palindromo.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\02072019\18-Palindromo\obj\Debug\netcoreapp2.2\18-Palindromo.dll
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\02072019\18-Palindromo\obj\Debug\netcoreapp2.2\18-Palindromo.pdb
