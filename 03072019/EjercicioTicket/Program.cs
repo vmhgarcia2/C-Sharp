@@ -28,7 +28,6 @@ namespace EjercicioTicket
             miTicket.nuevaLinea(6,cafe);
             miTicket.nuevaLinea(2,nesquick); 
 
-            string s="_";
 
             System.Console.WriteLine(new string('_',45));
             System.Console.WriteLine(Convert.ToString("| Fecha: " + miTicket.getFecha()).PadRight(45,' ') + "|");
