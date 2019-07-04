@@ -3,7 +3,17 @@ namespace EjercicioOrdenador
     public class Ram
     {
         private byte tamanyo;
-        private byte numCeldas;
+        private byte[] numCeldas;
+
+        public Ram() : this(0)
+        {
+        }
+
+        public Ram(byte tamanyo)
+        {
+            this.setTamanyo(tamanyo);
+            this.numCeldas = new byte[tamanyo];
+        }
 
         public byte getTamanyo()
         {
@@ -14,16 +24,5 @@ namespace EjercicioOrdenador
         {
             this.tamanyo = tamanyo;
         }
-
-        public byte getNumCeldas()
-        {
-            return this.numCeldas;
-        }
-
-        public void setNumCeldas(byte numCeldas)
-        {
-            this.numCeldas = numCeldas;
-        }
-
     }
 }

@@ -4,6 +4,11 @@ namespace EjercicioOrdenador
     {
         private double velocidad;
         private string modelo;
+
+        public Procesador(double velocidad,string modelo){
+            this.setVelocidad(velocidad);
+            this.setModelo(modelo);
+        }
         
         public double getVelocidad()
         {
