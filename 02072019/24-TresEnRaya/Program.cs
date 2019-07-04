@@ -15,7 +15,7 @@ namespace _24_TresEnRaya
             matriz[1,1]="O";
             matriz[1,2]="0";
             matriz[1,3]="0";
-            mat.Next(matriz);
+            //mat.Next(matriz);
             Console.WriteLine(matriz[0,1]);
         }
     }

@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\03072019\\EjercicioTicket\\EjercicioTicket.csproj",
-      "projectName": "EjercicioTicket",
-      "projectPath": "C:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\03072019\\EjercicioTicket\\EjercicioTicket.csproj",
+      "projectUniqueName": "C:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\04072019\\Figura\\Forma.csproj",
+      "projectName": "Forma",
+      "projectPath": "C:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\04072019\\Figura\\Forma.csproj",
       "packagesPath": "C:\\Users\\formacion.GTT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\03072019\\EjercicioTicket\\obj\\",
+      "outputPath": "C:\\Users\\formacion.GTT\\Desktop\\Curso\\cursoGTT\\04072019\\Figura\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
