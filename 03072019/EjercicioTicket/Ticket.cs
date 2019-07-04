@@ -58,10 +58,11 @@ namespace EjercicioTicket
             }
             return 100;
         }
-        public void nuevaLinea(Linea linea){
+
+        public void nuevaLinea(short c,Producto p){
             int a=this.primeraLineaVacia();
-            this.linea[a]=linea;
-            totalCompra+=linea.getprecioTotal();
+            this.linea[a]=new Linea(c,p);
+            totalCompra+=linea[a].getprecioTotal();
         }
     }
 }

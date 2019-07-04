@@ -21,24 +21,16 @@ namespace EjercicioTicket
             Producto cafe=new Producto("Café",1.0,300);
             Producto nesquick=new Producto("Nesquick",5.0,300);
 
-            Linea linea1=new Linea(2,champu);
-            Linea linea2=new Linea(2,pan);
-            Linea linea3=new Linea(3,manzana);
-            Linea linea4=new Linea(6,cafe);
-            Linea linea5=new Linea(2,nesquick); 
-            Linea linea6=new Linea();
-            Linea[] todasLineas={linea1,linea2,linea3,linea4,linea5,linea6,linea6,linea6,linea6,linea6};
-
-            //Metodo añadir elemento al ticket
             Ticket miTicket=new Ticket(DateTime.Today,"ElSuper");
-            miTicket.nuevaLinea(linea1);
-            miTicket.nuevaLinea(linea2);
-            miTicket.nuevaLinea(linea3);
-            miTicket.nuevaLinea(linea4);
-            miTicket.nuevaLinea(linea5);
+            miTicket.nuevaLinea(2,champu);
+            miTicket.nuevaLinea(2,pan);
+            miTicket.nuevaLinea(3,manzana);
+            miTicket.nuevaLinea(6,cafe);
+            miTicket.nuevaLinea(2,nesquick); 
+
             string s="_";
 
-            System.Console.WriteLine(s.PadRight(45,'_'));
+            System.Console.WriteLine(new string('_',45));
             System.Console.WriteLine(Convert.ToString("| Fecha: " + miTicket.getFecha()).PadRight(45,' ') + "|");
             System.Console.WriteLine(Convert.ToString("| Nombre: " + miTicket.getNombreSuper()).PadRight(45,' ') + "|");
             System.Console.WriteLine("|".PadRight(45,'-') + "|");
