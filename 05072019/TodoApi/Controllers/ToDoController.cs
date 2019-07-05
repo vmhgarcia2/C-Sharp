@@ -26,6 +26,7 @@ namespace TodoApi.Controllers
 
             [HttpPost]
             public ToDoItem PostTodo(ToDoItem item){
+                item.Id=this.store.todos.Count;
                 this.store.todos.Add(item);
                 return item;
             }
