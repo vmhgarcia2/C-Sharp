@@ -4,7 +4,7 @@ using TodoApi.Controllers;
 
 namespace TodoApi.utils
  {
-    
+        //Sealed-> no se pueden heredar
         public sealed class Store
         {
             private readonly static Store _instance = new Store();
