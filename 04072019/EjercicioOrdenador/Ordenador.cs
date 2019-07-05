@@ -7,9 +7,17 @@ namespace EjercicioOrdenador
         private string modelo;
         private Almacenamiento almacenamiento;
 
-        public Ordenador(Ram memoria,Procesador procesador,string modelo,Almacenamiento almacenamiento){
+        public Ordenador():this(new Ram(),new Procesador(),"",new Almacenamiento()){
             
         }
+
+        public Ordenador(Ram memoria,Procesador procesador,string modelo,Almacenamiento almacenamiento){
+            this.setMemoria(memoria);
+            this.setProcesador(procesador);
+            this.setModelo(modelo);
+            this.setAlmacenamiento(almacenamiento);
+        }
+
         public Ram getMemoria()
         {
             return this.memoria;

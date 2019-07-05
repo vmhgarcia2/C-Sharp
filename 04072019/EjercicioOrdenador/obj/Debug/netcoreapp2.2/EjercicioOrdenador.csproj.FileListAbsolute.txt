@@ -9,3 +9,14 @@ C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\04072019\EjercicioOrdenador\bin\De
 C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\04072019\EjercicioOrdenador\bin\Debug\netcoreapp2.2\EjercicioOrdenador.pdb
 C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\04072019\EjercicioOrdenador\obj\Debug\netcoreapp2.2\EjercicioOrdenador.dll
 C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\04072019\EjercicioOrdenador\obj\Debug\netcoreapp2.2\EjercicioOrdenador.pdb
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\04072019\EjercicioOrdenador\obj\Debug\netcoreapp2.2\EjercicioOrdenador.csprojAssemblyReference.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\04072019\EjercicioOrdenador\obj\Debug\netcoreapp2.2\EjercicioOrdenador.csproj.CoreCompileInputs.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\04072019\EjercicioOrdenador\obj\Debug\netcoreapp2.2\EjercicioOrdenador.AssemblyInfoInputs.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\04072019\EjercicioOrdenador\obj\Debug\netcoreapp2.2\EjercicioOrdenador.AssemblyInfo.cs
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\04072019\EjercicioOrdenador\obj\Debug\netcoreapp2.2\EjercicioOrdenador.dll
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\04072019\EjercicioOrdenador\obj\Debug\netcoreapp2.2\EjercicioOrdenador.pdb
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\04072019\EjercicioOrdenador\bin\Debug\netcoreapp2.2\EjercicioOrdenador.deps.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\04072019\EjercicioOrdenador\bin\Debug\netcoreapp2.2\EjercicioOrdenador.runtimeconfig.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\04072019\EjercicioOrdenador\bin\Debug\netcoreapp2.2\EjercicioOrdenador.runtimeconfig.dev.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\04072019\EjercicioOrdenador\bin\Debug\netcoreapp2.2\EjercicioOrdenador.dll
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\04072019\EjercicioOrdenador\bin\Debug\netcoreapp2.2\EjercicioOrdenador.pdb

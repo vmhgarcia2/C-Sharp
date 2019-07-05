@@ -24,5 +24,13 @@ namespace EjercicioOrdenador
         {
             this.tamanyo = tamanyo;
         }
+
+        public void setPosicionMemoria(byte posicion,byte dato){
+            this.numCeldas[posicion]=dato;
+        }
+
+        public byte getPosicionMemoria(byte posicion){
+            return this.numCeldas[posicion];
+        }
     }
 }

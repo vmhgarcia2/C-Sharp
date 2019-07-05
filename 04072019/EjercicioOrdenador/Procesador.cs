@@ -5,6 +5,10 @@ namespace EjercicioOrdenador
         private double velocidad;
         private string modelo;
 
+        public Procesador():this(0,""){
+
+        }
+        
         public Procesador(double velocidad,string modelo){
             this.setVelocidad(velocidad);
             this.setModelo(modelo);
