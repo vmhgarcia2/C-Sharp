@@ -1,0 +1,14 @@
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\05072019\Videojuegos\bin\Debug\netcoreapp2.2\Videojuegos.deps.json
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\05072019\Videojuegos\bin\Debug\netcoreapp2.2\Videojuegos.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\05072019\Videojuegos\bin\Debug\netcoreapp2.2\Videojuegos.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\05072019\Videojuegos\bin\Debug\netcoreapp2.2\Videojuegos.dll
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\05072019\Videojuegos\bin\Debug\netcoreapp2.2\Videojuegos.pdb
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\05072019\Videojuegos\obj\Debug\netcoreapp2.2\Videojuegos.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\05072019\Videojuegos\obj\Debug\netcoreapp2.2\Videojuegos.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\05072019\Videojuegos\obj\Debug\netcoreapp2.2\Videojuegos.RazorAssemblyInfo.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\05072019\Videojuegos\obj\Debug\netcoreapp2.2\Videojuegos.RazorAssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\05072019\Videojuegos\obj\Debug\netcoreapp2.2\Videojuegos.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\05072019\Videojuegos\obj\Debug\netcoreapp2.2\Videojuegos.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\05072019\Videojuegos\obj\Debug\netcoreapp2.2\Videojuegos.RazorTargetAssemblyInfo.cache
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\05072019\Videojuegos\obj\Debug\netcoreapp2.2\Videojuegos.dll
+C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\05072019\Videojuegos\obj\Debug\netcoreapp2.2\Videojuegos.pdb
