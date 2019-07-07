@@ -4,8 +4,8 @@
     "windowsAuthentication": false, 
     "anonymousAuthentication": true, 
     "iisExpress": {
-      "applicationUrl": "http://localhost:38021",
-      "sslPort": 44350
+      "applicationUrl": "http://localhost:40604",
+      "sslPort": 44376
     }
   },
   "profiles": {
@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Videojuegos": {
+    "VideojuegosApi": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "api/values",

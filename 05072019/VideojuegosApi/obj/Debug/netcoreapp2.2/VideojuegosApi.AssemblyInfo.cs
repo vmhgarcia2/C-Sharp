@@ -7,10 +7,10 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Videojuegos")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("VideojuegosApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Videojuegos")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Videojuegos")]
+[assembly: System.Reflection.AssemblyProductAttribute("VideojuegosApi")]
+[assembly: System.Reflection.AssemblyTitleAttribute("VideojuegosApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

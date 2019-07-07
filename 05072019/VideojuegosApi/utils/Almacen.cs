@@ -1,9 +1,12 @@
-namespace Videojuegos.Models
+using VideojuegosApi.Models;
+using System.Collections.Generic;
+
+namespace VideojuegosApi.utils
 {
     public class Almacen
-    {
+    {        
         private readonly static Almacen _instance = new Almacen();
-        public List<Videojuegos> bibliotecaVideojuegos = new List<Videojuegos>();
+        public List<VideojuegosItem> bibliotecaVideojuegos = new List<VideojuegosItem>();
 
         public Almacen() { }
 

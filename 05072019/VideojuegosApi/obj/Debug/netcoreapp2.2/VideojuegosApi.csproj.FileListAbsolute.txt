@@ -1,0 +1,14 @@
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\VideojuegosApi\obj\Debug\netcoreapp2.2\VideojuegosApi.csprojAssemblyReference.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\VideojuegosApi\obj\Debug\netcoreapp2.2\VideojuegosApi.csproj.CoreCompileInputs.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\VideojuegosApi\obj\Debug\netcoreapp2.2\VideojuegosApi.RazorAssemblyInfo.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\VideojuegosApi\obj\Debug\netcoreapp2.2\VideojuegosApi.RazorAssemblyInfo.cs
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\VideojuegosApi\obj\Debug\netcoreapp2.2\VideojuegosApi.AssemblyInfoInputs.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\VideojuegosApi\obj\Debug\netcoreapp2.2\VideojuegosApi.AssemblyInfo.cs
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\VideojuegosApi\bin\Debug\netcoreapp2.2\VideojuegosApi.deps.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\VideojuegosApi\bin\Debug\netcoreapp2.2\VideojuegosApi.runtimeconfig.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\VideojuegosApi\bin\Debug\netcoreapp2.2\VideojuegosApi.runtimeconfig.dev.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\VideojuegosApi\bin\Debug\netcoreapp2.2\VideojuegosApi.dll
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\VideojuegosApi\bin\Debug\netcoreapp2.2\VideojuegosApi.pdb
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\VideojuegosApi\obj\Debug\netcoreapp2.2\VideojuegosApi.RazorTargetAssemblyInfo.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\VideojuegosApi\obj\Debug\netcoreapp2.2\VideojuegosApi.dll
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\VideojuegosApi\obj\Debug\netcoreapp2.2\VideojuegosApi.pdb

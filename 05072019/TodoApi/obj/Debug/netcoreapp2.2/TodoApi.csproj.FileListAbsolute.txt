@@ -26,3 +26,17 @@ C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\05072019\TodoApi\bin\Debug\netcore
 C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\05072019\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.dll
 C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\05072019\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.pdb
 C:\Users\formacion.GTT\Desktop\Curso\cursoGTT\05072019\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorTargetAssemblyInfo.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csprojAssemblyReference.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csproj.CoreCompileInputs.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cs
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfoInputs.cache
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfo.cs
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.dll
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.pdb
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.deps.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.dev.json
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.dll
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.pdb
+c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorTargetAssemblyInfo.cache

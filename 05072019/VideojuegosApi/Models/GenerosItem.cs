@@ -1,7 +1,8 @@
-namespace Videojuegos.Models
+namespace VideojuegosApi.Models
 {
     enum generos{Combate,Laberinto,Deportes,Rol,Guerra};
-    public class Generos
+    public class GenerosItem 
     {
+        
     }
 }
