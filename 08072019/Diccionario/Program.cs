@@ -35,6 +35,7 @@ namespace Diccionario
                     case '3':
                         break;
                     default:
+                        Console.WriteLine("");
                         Console.WriteLine("No has introducido una opción correcta. Vuelve a intentarlo.");
                         Console.WriteLine("");
                         break; 
