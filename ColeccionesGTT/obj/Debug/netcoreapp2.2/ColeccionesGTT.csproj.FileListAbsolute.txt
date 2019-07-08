@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\source\repos\CursoGTT\ColeccionesGTT\bin\Debug\netcoreapp2.2\ColeccionesGTT.deps.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\ColeccionesGTT\bin\Debug\netcoreapp2.2\ColeccionesGTT.runtimeconfig.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\ColeccionesGTT\bin\Debug\netcoreapp2.2\ColeccionesGTT.runtimeconfig.dev.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\ColeccionesGTT\bin\Debug\netcoreapp2.2\ColeccionesGTT.dll
+C:\Users\formacion.GTT\source\repos\CursoGTT\ColeccionesGTT\bin\Debug\netcoreapp2.2\ColeccionesGTT.pdb
+C:\Users\formacion.GTT\source\repos\CursoGTT\ColeccionesGTT\obj\Debug\netcoreapp2.2\ColeccionesGTT.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\ColeccionesGTT\obj\Debug\netcoreapp2.2\ColeccionesGTT.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\ColeccionesGTT\obj\Debug\netcoreapp2.2\ColeccionesGTT.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\ColeccionesGTT\obj\Debug\netcoreapp2.2\ColeccionesGTT.AssemblyInfo.cs
+C:\Users\formacion.GTT\source\repos\CursoGTT\ColeccionesGTT\obj\Debug\netcoreapp2.2\ColeccionesGTT.dll
+C:\Users\formacion.GTT\source\repos\CursoGTT\ColeccionesGTT\obj\Debug\netcoreapp2.2\ColeccionesGTT.pdb
