@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "tarea-VideojuegosApi",
+      "appliesTo": "05072019/VideojuegosApi/",
+      "type": "launch"
+    }
+  ]
+}
