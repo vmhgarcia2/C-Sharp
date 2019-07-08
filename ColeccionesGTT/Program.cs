@@ -33,6 +33,11 @@ namespace Colecciones
             return (this.color == other.color && this.nombre == other.nombre);
             throw new NotImplementedException();
         }
+
+        public override string ToString()
+        {
+            return "Este es mi pez: " + this.Nombre + ", " + this.Color;
+        }
     }
 
     class Program
@@ -114,6 +119,12 @@ namespace Colecciones
                 Console.WriteLine(p.Value.Color);
             }
 
+            Pez pezEncontrado;
+            bool encontrado = diccionarioPeces.TryGetValue("Nemo2", out pezEncontrado);
+            if (encontrado)
+            {
+                Console.WriteLine(pezEncontrado.ToString());
+            }
         }
     }
 }
