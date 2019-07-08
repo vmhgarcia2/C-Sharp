@@ -8,3 +8,4 @@ C:\Users\formacion.GTT\source\repos\CursoGTT\08072019\PilasyColas\obj\Debug\netc
 C:\Users\formacion.GTT\source\repos\CursoGTT\08072019\PilasyColas\obj\Debug\netcoreapp2.2\PilasyColas.AssemblyInfo.cs
 C:\Users\formacion.GTT\source\repos\CursoGTT\08072019\PilasyColas\obj\Debug\netcoreapp2.2\PilasyColas.dll
 C:\Users\formacion.GTT\source\repos\CursoGTT\08072019\PilasyColas\obj\Debug\netcoreapp2.2\PilasyColas.pdb
+C:\Users\formacion.GTT\source\repos\CursoGTT\08072019\PilasyColas\obj\Debug\netcoreapp2.2\PilasyColas.csprojAssemblyReference.cache

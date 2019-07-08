@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.Specialized;
 
 namespace Diccionario
 {
@@ -7,7 +8,7 @@ namespace Diccionario
     {
         static void Main(string[] args)
         {
-            Dictionary<string, string> diccionario = new Dictionary<string, string>();
+            SortedDictionary<string, string> diccionario = new SortedDictionary<string, string>();
             ConsoleKeyInfo opcion;
             do
             {
@@ -15,7 +16,8 @@ namespace Diccionario
                 Console.WriteLine("=====");
                 Console.WriteLine("1. Introducir palabra y definición");
                 Console.WriteLine("2. Buscar palabra");
-                Console.WriteLine("3. Salir");
+                Console.WriteLine("3. Mostrar diccionario");
+                Console.WriteLine("4. Salir");
                 Console.WriteLine("");
                 bool insertada;
                 bool encontrada;
@@ -23,6 +25,7 @@ namespace Diccionario
                 switch (opcion.KeyChar)
                 {
                     case '1':
+                        Console.WriteLine("");
                         do
                         {
                             insertada = IntroducePalabra(diccionario);
@@ -30,9 +33,14 @@ namespace Diccionario
                         while (insertada);
                         break;
                     case '2':
+                        Console.WriteLine("");
                         encontrada = bPalabra(diccionario);
                         break;
                     case '3':
+                        Console.WriteLine("");
+                        mostrarDiccionario(diccionario);
+                        break;
+                    case '4':
                         break;
                     default:
                         Console.WriteLine("");
@@ -41,10 +49,10 @@ namespace Diccionario
                         break; 
                 }
             }
-            while (opcion.KeyChar!= '3');
+            while (opcion.KeyChar!= '4');
 
         }
-        public static bool IntroducePalabra(Dictionary<string, string> d)
+        public static bool IntroducePalabra(SortedDictionary<string, string> d)
         {
 
             string palabra;
@@ -57,7 +65,7 @@ namespace Diccionario
                 Console.Write("Introduce definicion:");
                 definicion = Console.ReadLine();
                 try {
-                    d.Add(palabra.ToLower(), definicion);
+                    d.Add(palabra.ToLower(), definicion.ToLower());
                 }
                 catch(ArgumentException)
                 {
@@ -74,7 +82,7 @@ namespace Diccionario
         }
 
     
-        public static bool bPalabra(Dictionary<string, string> d)
+        public static bool bPalabra(SortedDictionary<string, string> d)
         {
             string palabra;
             string valor;
@@ -83,8 +91,8 @@ namespace Diccionario
             if (palabra.Length > 0)
             {
                 bool encotrado = d.TryGetValue(palabra.ToLower(), out valor);
-                Console.Write("Definición de " + palabra + ": ");
-                Console.Write(valor);
+                Console.Write("Definición de " + palabra.Substring(0, 1).ToUpper() + palabra.Substring(1, palabra.Length - 1) + ": ");
+                Console.WriteLine(valor.Substring(0, 1).ToUpper() + valor.Substring(1, valor.Length - 1));
                 Console.WriteLine("");
                 return true;
             }
@@ -93,6 +101,19 @@ namespace Diccionario
                 Console.WriteLine("");
                 return false;
             }
+        }
+
+        public static void mostrarDiccionario(SortedDictionary<string, string> d)
+        {
+            Console.WriteLine("");
+            Console.WriteLine("DICCIONARIO COMPLETO");
+            Console.WriteLine("=====================");
+            foreach (var a in d)
+            {
+                Console.WriteLine(a.Key.Substring(0, 1).ToUpper() + a.Key.Substring(1, a.Key.Length - 1));
+                Console.WriteLine("     Def.: " + a.Value.Substring(0, 1).ToUpper() + a.Value.Substring(1, a.Value.Length - 1));
+            }
+            Console.WriteLine("");
         }
     }
 }
