@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\source\repos\CursoGTT\08072019\Diccionario\obj\Debug\netcoreapp2.2\Diccionario.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\08072019\Diccionario\obj\Debug\netcoreapp2.2\Diccionario.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\08072019\Diccionario\obj\Debug\netcoreapp2.2\Diccionario.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\08072019\Diccionario\obj\Debug\netcoreapp2.2\Diccionario.AssemblyInfo.cs
+C:\Users\formacion.GTT\source\repos\CursoGTT\08072019\Diccionario\bin\Debug\netcoreapp2.2\Diccionario.deps.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\08072019\Diccionario\bin\Debug\netcoreapp2.2\Diccionario.runtimeconfig.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\08072019\Diccionario\bin\Debug\netcoreapp2.2\Diccionario.runtimeconfig.dev.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\08072019\Diccionario\bin\Debug\netcoreapp2.2\Diccionario.dll
+C:\Users\formacion.GTT\source\repos\CursoGTT\08072019\Diccionario\bin\Debug\netcoreapp2.2\Diccionario.pdb
+C:\Users\formacion.GTT\source\repos\CursoGTT\08072019\Diccionario\obj\Debug\netcoreapp2.2\Diccionario.dll
+C:\Users\formacion.GTT\source\repos\CursoGTT\08072019\Diccionario\obj\Debug\netcoreapp2.2\Diccionario.pdb

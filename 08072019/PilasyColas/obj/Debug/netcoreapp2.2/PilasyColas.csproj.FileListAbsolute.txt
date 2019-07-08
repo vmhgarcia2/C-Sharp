@@ -1,0 +1,10 @@
+C:\Users\formacion.GTT\source\repos\CursoGTT\08072019\PilasyColas\bin\Debug\netcoreapp2.2\PilasyColas.deps.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\08072019\PilasyColas\bin\Debug\netcoreapp2.2\PilasyColas.runtimeconfig.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\08072019\PilasyColas\bin\Debug\netcoreapp2.2\PilasyColas.runtimeconfig.dev.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\08072019\PilasyColas\bin\Debug\netcoreapp2.2\PilasyColas.dll
+C:\Users\formacion.GTT\source\repos\CursoGTT\08072019\PilasyColas\bin\Debug\netcoreapp2.2\PilasyColas.pdb
+C:\Users\formacion.GTT\source\repos\CursoGTT\08072019\PilasyColas\obj\Debug\netcoreapp2.2\PilasyColas.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\08072019\PilasyColas\obj\Debug\netcoreapp2.2\PilasyColas.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\08072019\PilasyColas\obj\Debug\netcoreapp2.2\PilasyColas.AssemblyInfo.cs
+C:\Users\formacion.GTT\source\repos\CursoGTT\08072019\PilasyColas\obj\Debug\netcoreapp2.2\PilasyColas.dll
+C:\Users\formacion.GTT\source\repos\CursoGTT\08072019\PilasyColas\obj\Debug\netcoreapp2.2\PilasyColas.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diccionario", "Diccionario.csproj", "{74FA1883-B84F-4420-A666-9F25ED30805B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74FA1883-B84F-4420-A666-9F25ED30805B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74FA1883-B84F-4420-A666-9F25ED30805B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74FA1883-B84F-4420-A666-9F25ED30805B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74FA1883-B84F-4420-A666-9F25ED30805B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E17C391-C93F-4A7E-916D-3E5E7AE12381}
+	EndGlobalSection
+EndGlobal
