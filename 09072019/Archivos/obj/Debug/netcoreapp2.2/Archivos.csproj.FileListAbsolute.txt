@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\source\repos\CursoGTT\09072019\Archivos\bin\Debug\netcoreapp2.2\Archivos.deps.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\09072019\Archivos\bin\Debug\netcoreapp2.2\Archivos.runtimeconfig.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\09072019\Archivos\bin\Debug\netcoreapp2.2\Archivos.runtimeconfig.dev.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\09072019\Archivos\bin\Debug\netcoreapp2.2\Archivos.dll
+C:\Users\formacion.GTT\source\repos\CursoGTT\09072019\Archivos\bin\Debug\netcoreapp2.2\Archivos.pdb
+C:\Users\formacion.GTT\source\repos\CursoGTT\09072019\Archivos\obj\Debug\netcoreapp2.2\Archivos.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\09072019\Archivos\obj\Debug\netcoreapp2.2\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\09072019\Archivos\obj\Debug\netcoreapp2.2\Archivos.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\09072019\Archivos\obj\Debug\netcoreapp2.2\Archivos.AssemblyInfo.cs
+C:\Users\formacion.GTT\source\repos\CursoGTT\09072019\Archivos\obj\Debug\netcoreapp2.2\Archivos.dll
+C:\Users\formacion.GTT\source\repos\CursoGTT\09072019\Archivos\obj\Debug\netcoreapp2.2\Archivos.pdb

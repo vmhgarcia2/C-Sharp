@@ -1,11 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Collections.Specialized;
+using System.IO;
 
 namespace Diccionario
 {
     class Program
     {
+        public static string lineas;
         static void Main(string[] args)
         {
             SortedDictionary<string, string> diccionario = new SortedDictionary<string, string>();
@@ -41,6 +43,7 @@ namespace Diccionario
                         mostrarDiccionario(diccionario);
                         break;
                     case '4':
+                        File.AppendAllText("C:/tests/diccionario.txt", lineas);
                         break;
                     default:
                         Console.WriteLine("");
@@ -54,7 +57,6 @@ namespace Diccionario
         }
         public static bool IntroducePalabra(SortedDictionary<string, string> d)
         {
-
             string palabra;
             string definicion;
             Console.WriteLine("");
@@ -64,10 +66,12 @@ namespace Diccionario
             {
                 Console.Write("Introduce definicion:");
                 definicion = Console.ReadLine();
-                try {
+                try
+                {
                     d.Add(palabra.ToLower(), definicion.ToLower());
+                    lineas = lineas + palabra.ToLower() + ";" + definicion.ToLower() + "\n";
                 }
-                catch(ArgumentException)
+                catch (ArgumentException)
                 {
                     Console.WriteLine("No se ha podido añadir la palabra");
                     return true;
