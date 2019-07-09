@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\formacion.GTT\\.nuget\\packages\\": {},
+    "C:\\Users\\Veronica\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\formacion.GTT\\source\\repos\\CursoGTT\\09072019\\EjercicioEmpresa\\EjercicioEmpresa.csproj",
+      "projectUniqueName": "C:\\Users\\Veronica\\Documents\\cursoGTT\\CursoGTT\\09072019\\EjercicioEmpresa\\EjercicioEmpresa.csproj",
       "projectName": "EjercicioEmpresa",
-      "projectPath": "C:\\Users\\formacion.GTT\\source\\repos\\CursoGTT\\09072019\\EjercicioEmpresa\\EjercicioEmpresa.csproj",
-      "packagesPath": "C:\\Users\\formacion.GTT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\formacion.GTT\\source\\repos\\CursoGTT\\09072019\\EjercicioEmpresa\\obj\\",
+      "projectPath": "C:\\Users\\Veronica\\Documents\\cursoGTT\\CursoGTT\\09072019\\EjercicioEmpresa\\EjercicioEmpresa.csproj",
+      "packagesPath": "C:\\Users\\Veronica\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Veronica\\Documents\\cursoGTT\\CursoGTT\\09072019\\EjercicioEmpresa\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\formacion.GTT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Veronica\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

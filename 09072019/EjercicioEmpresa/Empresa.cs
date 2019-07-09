@@ -11,9 +11,8 @@ namespace EjercicioEmpresa
     [Serializable]
     class Empresa
     {
-        private string nombre;
+        private string nombre="";
         private string anyodefundacion;
-        private List<Empleado> listaEmpleados;
 
         public string Nombre
         {
@@ -25,26 +24,34 @@ namespace EjercicioEmpresa
             get => anyodefundacion;
             set => anyodefundacion = value;
         }
-        public List<Empleado> ListaEmpleados
-        {
-            get => listaEmpleados;
-            set => listaEmpleados = value;
-        }
 
         public static void serializar(Empresa empresa,string directorio)
         {
             IFormatter formatter = new BinaryFormatter();
-            Stream stream = new FileStream(directorio, FileMode.Create, FileAccess.Write);
-            formatter.Serialize(stream, empresa);
-            stream.Close();
+            try
+            {
+                Stream stream = new FileStream(directorio, FileMode.Create, FileAccess.Write);
+                formatter.Serialize(stream, empresa);
+                stream.Close();
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("No se puede encontrar la empresa");
+            }
         }
         public static Empresa deserializar(string ruta)
         {
-            Empresa empresa;
-            IFormatter formatter = new BinaryFormatter();
-            Stream stream = new FileStream(ruta, FileMode.Open, FileAccess.Read);
-            empresa = (Empresa)formatter.Deserialize(stream);
-            stream.Close();
+            Empresa empresa=new Empresa();
+            try { 
+                IFormatter formatter = new BinaryFormatter();
+                Stream stream = new FileStream(ruta, FileMode.Open, FileAccess.Read);
+                empresa = (Empresa)formatter.Deserialize(stream);
+                stream.Close();
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("No se puede encontrar la empresa");
+            }
             return empresa;
         }
     }
