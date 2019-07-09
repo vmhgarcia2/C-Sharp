@@ -112,12 +112,35 @@ namespace Diccionario
             Console.WriteLine("");
             Console.WriteLine("DICCIONARIO COMPLETO");
             Console.WriteLine("=====================");
-            foreach (var a in d)
+            //foreach (var a in d)
+            //{
+            //    Console.WriteLine(a.Key.Substring(0, 1).ToUpper() + a.Key.Substring(1, a.Key.Length - 1));
+            //    Console.WriteLine("     Def.: " + a.Value.Substring(0, 1).ToUpper() + a.Value.Substring(1, a.Value.Length - 1));
+            //}
+            //string[] dicc = File.ReadAllLines("C:/tests/diccionario.txt");
+            //foreach(string di in dicc)
+            //{
+            //    Console.WriteLine(di);
+            //}
+            //Console.WriteLine("");
+            string linea = "";
+            StreamReader sr = new StreamReader("C:/tests/diccionario.txt");
+            while (sr.Peek() >= 0)
             {
-                Console.WriteLine(a.Key.Substring(0, 1).ToUpper() + a.Key.Substring(1, a.Key.Length - 1));
-                Console.WriteLine("     Def.: " + a.Value.Substring(0, 1).ToUpper() + a.Value.Substring(1, a.Value.Length - 1));
+                if ((char)sr.Peek() == '\n')
+                {
+                    sr.Read();
+                    Console.WriteLine(linea);
+                    linea = "";
+                }
+                else
+                {
+                    linea = linea + (char)sr.Read();
+                }
             }
+            sr.Close();
+
             Console.WriteLine("");
-        }
+        }        
     }
 }

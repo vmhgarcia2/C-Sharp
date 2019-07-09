@@ -12,3 +12,17 @@ c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\VideojuegosApi\bin\Debug\
 c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\VideojuegosApi\obj\Debug\netcoreapp2.2\VideojuegosApi.RazorTargetAssemblyInfo.cache
 c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\VideojuegosApi\obj\Debug\netcoreapp2.2\VideojuegosApi.dll
 c:\Users\Veronica\Documents\cursoGTT\CursoGTT\05072019\VideojuegosApi\obj\Debug\netcoreapp2.2\VideojuegosApi.pdb
+C:\Users\formacion.GTT\source\repos\CursoGTT\05072019\VideojuegosApi\bin\Debug\netcoreapp2.2\VideojuegosApi.deps.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\05072019\VideojuegosApi\bin\Debug\netcoreapp2.2\VideojuegosApi.runtimeconfig.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\05072019\VideojuegosApi\bin\Debug\netcoreapp2.2\VideojuegosApi.runtimeconfig.dev.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\05072019\VideojuegosApi\bin\Debug\netcoreapp2.2\VideojuegosApi.dll
+C:\Users\formacion.GTT\source\repos\CursoGTT\05072019\VideojuegosApi\bin\Debug\netcoreapp2.2\VideojuegosApi.pdb
+C:\Users\formacion.GTT\source\repos\CursoGTT\05072019\VideojuegosApi\obj\Debug\netcoreapp2.2\VideojuegosApi.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\05072019\VideojuegosApi\obj\Debug\netcoreapp2.2\VideojuegosApi.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\05072019\VideojuegosApi\obj\Debug\netcoreapp2.2\VideojuegosApi.RazorAssemblyInfo.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\05072019\VideojuegosApi\obj\Debug\netcoreapp2.2\VideojuegosApi.RazorAssemblyInfo.cs
+C:\Users\formacion.GTT\source\repos\CursoGTT\05072019\VideojuegosApi\obj\Debug\netcoreapp2.2\VideojuegosApi.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\05072019\VideojuegosApi\obj\Debug\netcoreapp2.2\VideojuegosApi.AssemblyInfo.cs
+C:\Users\formacion.GTT\source\repos\CursoGTT\05072019\VideojuegosApi\obj\Debug\netcoreapp2.2\VideojuegosApi.RazorTargetAssemblyInfo.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\05072019\VideojuegosApi\obj\Debug\netcoreapp2.2\VideojuegosApi.dll
+C:\Users\formacion.GTT\source\repos\CursoGTT\05072019\VideojuegosApi\obj\Debug\netcoreapp2.2\VideojuegosApi.pdb

@@ -5,24 +5,34 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using VideojuegosApi.Models;
 using VideojuegosApi.utils;
+using System.IO;
 
 namespace VideojuegosApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+
+    [Serializable]
     public class VideojuegosController:ControllerBase
     {        
         private Almacen almacen = Almacen.Instance;
 
         public VideojuegosController()
         {
+            Console.WriteLine("hola");
         }
 
         //LISTADO TOTAL
         [HttpGet]
         public List<VideojuegosItem> getVideojuegositems()
         {
-            return this.almacen.bibliotecaVideojuegos;
+            List<VideojuegosItem> vi = new List<VideojuegosItem>();
+            foreach(string f in Directory.GetFiles("C:/tests"))
+            {
+                vi.Add(VideojuegosItem.deserializar(f));
+            }
+            return vi;
+            //return this.almacen.bibliotecaVideojuegos;
         }
 
         //Detalle por id
@@ -34,8 +44,7 @@ namespace VideojuegosApi.Controllers
         [HttpPost]
         public VideojuegosItem PostTodo(VideojuegosItem item)
         {
-            item.id=1;
-            item.anyoLanzamiento=item.anyoLanzamiento;
+            VideojuegosItem.serializar(item);
             this.almacen.bibliotecaVideojuegos.Add(item);
             return item;
         }

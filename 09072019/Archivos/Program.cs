@@ -44,9 +44,14 @@ namespace Archivos
             //    }
             //}
 
-            mostrarDirectoriosyArchivos(@"C:\data\");
+            mostrarDirectoriosyArchivos(@"C:\data\"); 
+            mostrarDirectoriosyArchivos(@"C:\ProgramData");
         }
 
+        public static void controlErrores(Exception e)
+        {
+
+        }
         //Recursividad
         public static void mostrarDirectoriosyArchivos(string directorio)
         {
@@ -62,26 +67,16 @@ namespace Archivos
                             Console.WriteLine("           ---> " + f);
                         }
                     }
-                    catch (UnauthorizedAccessException e)
+                    catch (Exception e)
                     {
-                    }
-                    catch (DirectoryNotFoundException e)
-                    {
-                    }
-                    catch (IOException e)
-                    {
+                        controlErrores(e);
                     }
                     mostrarDirectoriosyArchivos(d);
                 }
             }
-            catch (UnauthorizedAccessException e)
+            catch (Exception e)
             {
-            }
-            catch (DirectoryNotFoundException e)
-            {
-            }
-            catch (IOException e)
-            {
+                controlErrores(e);
             }
         }
     }

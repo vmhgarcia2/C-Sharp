@@ -7,9 +7,9 @@ namespace Ficheros
     {
         static void Main(string[] args)
         {
-            File.WriteAllText("C:/tests/hello.txt", "hola mundo");
-            File.AppendAllText("C:/tests/hello.txt", "hola mundo");
-            File.AppendAllText("C:/tests/hello.txt", "hola mundo");
+            StreamWriter file = new StreamWriter(@"C:\tests\hello.txt", true);
+            file.WriteLine("Helloooo");
+            file.Close();
         }
     }
 }
