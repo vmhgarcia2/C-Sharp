@@ -50,8 +50,14 @@ namespace Archivos
 
         public static void controlErrores(Exception e)
         {
+            if (e != null)
+            {
+                Console.Write("Ha ocurrido el siguiente error:");
+                Console.WriteLine(e.GetType().Name);
 
+            }
         }
+
         //Recursividad
         public static void mostrarDirectoriosyArchivos(string directorio)
         {
