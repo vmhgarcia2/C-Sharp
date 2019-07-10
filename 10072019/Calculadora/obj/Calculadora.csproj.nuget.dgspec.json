@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\formacion.GTT\\source\\repos\\CursoGTT\\09072019\\EjercicioEmpresa\\EjercicioEmpresa.csproj": {}
+    "C:\\Users\\formacion.GTT\\source\\repos\\CursoGTT\\10072019\\Calculadora\\Calculadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\formacion.GTT\\source\\repos\\CursoGTT\\09072019\\EjercicioEmpresa\\EjercicioEmpresa.csproj": {
+    "C:\\Users\\formacion.GTT\\source\\repos\\CursoGTT\\10072019\\Calculadora\\Calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\formacion.GTT\\source\\repos\\CursoGTT\\09072019\\EjercicioEmpresa\\EjercicioEmpresa.csproj",
-        "projectName": "EjercicioEmpresa",
-        "projectPath": "C:\\Users\\formacion.GTT\\source\\repos\\CursoGTT\\09072019\\EjercicioEmpresa\\EjercicioEmpresa.csproj",
+        "projectUniqueName": "C:\\Users\\formacion.GTT\\source\\repos\\CursoGTT\\10072019\\Calculadora\\Calculadora.csproj",
+        "projectName": "Calculadora",
+        "projectPath": "C:\\Users\\formacion.GTT\\source\\repos\\CursoGTT\\10072019\\Calculadora\\Calculadora.csproj",
         "packagesPath": "C:\\Users\\formacion.GTT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\formacion.GTT\\source\\repos\\CursoGTT\\09072019\\EjercicioEmpresa\\obj\\",
+        "outputPath": "C:\\Users\\formacion.GTT\\source\\repos\\CursoGTT\\10072019\\Calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

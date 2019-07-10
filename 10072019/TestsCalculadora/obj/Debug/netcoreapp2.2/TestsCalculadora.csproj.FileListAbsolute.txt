@@ -1,0 +1,17 @@
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestsCalculadora\obj\Debug\netcoreapp2.2\TestsCalculadora.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestsCalculadora\obj\Debug\netcoreapp2.2\TestsCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestsCalculadora\obj\Debug\netcoreapp2.2\TestsCalculadora.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestsCalculadora\obj\Debug\netcoreapp2.2\TestsCalculadora.AssemblyInfo.cs
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestsCalculadora\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestsCalculadora\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestsCalculadora\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestsCalculadora\bin\Debug\netcoreapp2.2\TestsCalculadora.deps.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestsCalculadora\bin\Debug\netcoreapp2.2\TestsCalculadora.runtimeconfig.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestsCalculadora\bin\Debug\netcoreapp2.2\TestsCalculadora.runtimeconfig.dev.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestsCalculadora\bin\Debug\netcoreapp2.2\TestsCalculadora.dll
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestsCalculadora\bin\Debug\netcoreapp2.2\TestsCalculadora.pdb
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestsCalculadora\bin\Debug\netcoreapp2.2\Calculadora.dll
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestsCalculadora\bin\Debug\netcoreapp2.2\Calculadora.pdb
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestsCalculadora\obj\Debug\netcoreapp2.2\TestsCalculadora.csproj.CopyComplete
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestsCalculadora\obj\Debug\netcoreapp2.2\TestsCalculadora.dll
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestsCalculadora\obj\Debug\netcoreapp2.2\TestsCalculadora.pdb

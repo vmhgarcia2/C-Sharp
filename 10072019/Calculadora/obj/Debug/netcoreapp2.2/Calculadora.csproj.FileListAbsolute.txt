@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Calculadora\bin\Debug\netcoreapp2.2\Calculadora.deps.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Calculadora\bin\Debug\netcoreapp2.2\Calculadora.runtimeconfig.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Calculadora\bin\Debug\netcoreapp2.2\Calculadora.runtimeconfig.dev.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Calculadora\bin\Debug\netcoreapp2.2\Calculadora.dll
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Calculadora\bin\Debug\netcoreapp2.2\Calculadora.pdb
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Calculadora\obj\Debug\netcoreapp2.2\Calculadora.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Calculadora\obj\Debug\netcoreapp2.2\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Calculadora\obj\Debug\netcoreapp2.2\Calculadora.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Calculadora\obj\Debug\netcoreapp2.2\Calculadora.AssemblyInfo.cs
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Calculadora\obj\Debug\netcoreapp2.2\Calculadora.dll
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Calculadora\obj\Debug\netcoreapp2.2\Calculadora.pdb
