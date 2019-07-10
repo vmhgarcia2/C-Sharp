@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Proyecto\Banco\bin\Debug\netcoreapp2.2\Banco.deps.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Proyecto\Banco\bin\Debug\netcoreapp2.2\Banco.runtimeconfig.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Proyecto\Banco\bin\Debug\netcoreapp2.2\Banco.runtimeconfig.dev.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Proyecto\Banco\bin\Debug\netcoreapp2.2\Banco.dll
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Proyecto\Banco\bin\Debug\netcoreapp2.2\Banco.pdb
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Proyecto\Banco\obj\Debug\netcoreapp2.2\Banco.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Proyecto\Banco\obj\Debug\netcoreapp2.2\Banco.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Proyecto\Banco\obj\Debug\netcoreapp2.2\Banco.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Proyecto\Banco\obj\Debug\netcoreapp2.2\Banco.AssemblyInfo.cs
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Proyecto\Banco\obj\Debug\netcoreapp2.2\Banco.dll
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Proyecto\Banco\obj\Debug\netcoreapp2.2\Banco.pdb

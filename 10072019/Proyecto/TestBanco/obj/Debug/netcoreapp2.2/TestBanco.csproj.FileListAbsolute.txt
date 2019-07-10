@@ -1,0 +1,17 @@
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Proyecto\TestBanco\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Proyecto\TestBanco\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Proyecto\TestBanco\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Proyecto\TestBanco\bin\Debug\netcoreapp2.2\TestBanco.deps.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Proyecto\TestBanco\bin\Debug\netcoreapp2.2\TestBanco.runtimeconfig.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Proyecto\TestBanco\bin\Debug\netcoreapp2.2\TestBanco.runtimeconfig.dev.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Proyecto\TestBanco\bin\Debug\netcoreapp2.2\TestBanco.dll
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Proyecto\TestBanco\bin\Debug\netcoreapp2.2\TestBanco.pdb
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Proyecto\TestBanco\bin\Debug\netcoreapp2.2\Banco.dll
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Proyecto\TestBanco\bin\Debug\netcoreapp2.2\Banco.pdb
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Proyecto\TestBanco\obj\Debug\netcoreapp2.2\TestBanco.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Proyecto\TestBanco\obj\Debug\netcoreapp2.2\TestBanco.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Proyecto\TestBanco\obj\Debug\netcoreapp2.2\TestBanco.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Proyecto\TestBanco\obj\Debug\netcoreapp2.2\TestBanco.AssemblyInfo.cs
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Proyecto\TestBanco\obj\Debug\netcoreapp2.2\TestBanco.csproj.CopyComplete
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Proyecto\TestBanco\obj\Debug\netcoreapp2.2\TestBanco.dll
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\Proyecto\TestBanco\obj\Debug\netcoreapp2.2\TestBanco.pdb

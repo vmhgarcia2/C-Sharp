@@ -8,24 +8,30 @@ namespace Banco
     //getBalance para obtener el saldo y deposit para depositar fondos
     //withdraw para reitrar fondos y toString para devolver por pantalla el saldo actual
     //además de al menos un constructor
-    class Cuenta
+    public class Cuenta
     {
         private double saldoActual;
+
+        public double SaldoActual
+        {
+            get => saldoActual;
+            set => saldoActual = value;
+        }
 
         public Cuenta()
         {
 
         }
-        public static double getBalance()
+        public double getBalance()
         {
             throw new Exception("Metodo no implementado");
         }
 
-        public static void deposit(double nuevosFondos)
+        public void deposit(double nuevosFondos)
         {
             throw new Exception("Metodo no implementado");
         }
-        public static void withdraw(double retirarFondos)
+        public void withdraw(double retirarFondos)
         {
             throw new Exception("Metodo no implementado");
         }
