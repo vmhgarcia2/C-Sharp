@@ -20,8 +20,9 @@ namespace Banco
 
         public Cuenta()
         {
-
+           
         }
+
         public double getBalance()
         {
             throw new Exception("Metodo no implementado");
@@ -31,6 +32,7 @@ namespace Banco
         {
             throw new Exception("Metodo no implementado");
         }
+
         public void withdraw(double retirarFondos)
         {
             throw new Exception("Metodo no implementado");

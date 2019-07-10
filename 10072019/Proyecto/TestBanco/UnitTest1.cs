@@ -1,5 +1,6 @@
 using NUnit.Framework;
 using Banco;
+using System;
 
 namespace Tests
 {
@@ -8,6 +9,20 @@ namespace Tests
         [SetUp]
         public void Setup()
         {
+        }
+
+        [Test]
+        public void Test_Constructor()
+        {
+            //Arranque
+            Cuenta c = new Cuenta();
+            double resultado;
+
+            //Acción
+            resultado = c.SaldoActual;
+
+            //Aseveración
+            Assert.IsNotNull(resultado);
         }
 
         [Test]
@@ -22,7 +37,7 @@ namespace Tests
             resultado = c.getBalance();
 
             //Aseveración
-            Assert.IsNotNull(resultado);
+            Assert.AreEqual(resultado,12.1);
         }
 
 
@@ -96,5 +111,8 @@ namespace Tests
             //Aseveración
             Assert.AreEqual("12", s);
         }
+
+
+
     }
 }
