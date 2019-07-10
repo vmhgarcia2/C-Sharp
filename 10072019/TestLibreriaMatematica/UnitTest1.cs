@@ -11,7 +11,7 @@ namespace Tests
         }
 
         [Test]
-        public void TestPar()
+        public void TestEsPar10()
         {
             //Arranque
             int numero=10;
@@ -26,7 +26,7 @@ namespace Tests
         }
 
         [Test]
-        public void TestImpar()
+        public void TestEsPar13()
         {
             //Arranque
             int numero = 13;
@@ -41,7 +41,7 @@ namespace Tests
         }
 
         [Test]
-        public void TestCero()
+        public void TestEsPar0()
         {
             //Arranque
             int numero = 0;
@@ -56,7 +56,7 @@ namespace Tests
         }
 
         [Test]
-        public void TestEsPrimo12()
+        public void TestEsPrimo13()
         {
             //Arranque
             int numero = 13;
@@ -71,7 +71,7 @@ namespace Tests
         }
 
         [Test]
-        public void Test12()
+        public void TestEsPrimo12()
         {
             //Arranque
             int numero = 12;
@@ -85,6 +85,20 @@ namespace Tests
             Assert.IsFalse(resultado);
         }
 
+        [Test]
+        public void TestEsPrimo0()
+        {
+            //Arranque
+            int numero = 0;
+            bool resultado;
+
+            //Acción
+            resultado = Operacion.EsPrimo(numero);
+
+
+            //Aseveración
+            Assert.IsFalse(resultado);
+        }
 
     }
 }
