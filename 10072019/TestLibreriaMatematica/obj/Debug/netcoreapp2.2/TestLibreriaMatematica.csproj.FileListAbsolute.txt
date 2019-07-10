@@ -1,0 +1,17 @@
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestLibreriaMatematica\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestLibreriaMatematica\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestLibreriaMatematica\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestLibreriaMatematica\bin\Debug\netcoreapp2.2\TestLibreriaMatematica.deps.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestLibreriaMatematica\bin\Debug\netcoreapp2.2\TestLibreriaMatematica.runtimeconfig.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestLibreriaMatematica\bin\Debug\netcoreapp2.2\TestLibreriaMatematica.runtimeconfig.dev.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestLibreriaMatematica\bin\Debug\netcoreapp2.2\TestLibreriaMatematica.dll
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestLibreriaMatematica\bin\Debug\netcoreapp2.2\TestLibreriaMatematica.pdb
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestLibreriaMatematica\bin\Debug\netcoreapp2.2\LibreriaMatematica.dll
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestLibreriaMatematica\bin\Debug\netcoreapp2.2\LibreriaMatematica.pdb
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestLibreriaMatematica\obj\Debug\netcoreapp2.2\TestLibreriaMatematica.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestLibreriaMatematica\obj\Debug\netcoreapp2.2\TestLibreriaMatematica.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestLibreriaMatematica\obj\Debug\netcoreapp2.2\TestLibreriaMatematica.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestLibreriaMatematica\obj\Debug\netcoreapp2.2\TestLibreriaMatematica.AssemblyInfo.cs
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestLibreriaMatematica\obj\Debug\netcoreapp2.2\TestLibreriaMatematica.csproj.CopyComplete
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestLibreriaMatematica\obj\Debug\netcoreapp2.2\TestLibreriaMatematica.dll
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\TestLibreriaMatematica\obj\Debug\netcoreapp2.2\TestLibreriaMatematica.pdb

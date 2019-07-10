@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\LibreriaMatematica\bin\Debug\netcoreapp2.2\LibreriaMatematica.deps.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\LibreriaMatematica\bin\Debug\netcoreapp2.2\LibreriaMatematica.runtimeconfig.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\LibreriaMatematica\bin\Debug\netcoreapp2.2\LibreriaMatematica.runtimeconfig.dev.json
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\LibreriaMatematica\bin\Debug\netcoreapp2.2\LibreriaMatematica.dll
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\LibreriaMatematica\bin\Debug\netcoreapp2.2\LibreriaMatematica.pdb
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\LibreriaMatematica\obj\Debug\netcoreapp2.2\LibreriaMatematica.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\LibreriaMatematica\obj\Debug\netcoreapp2.2\LibreriaMatematica.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\LibreriaMatematica\obj\Debug\netcoreapp2.2\LibreriaMatematica.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\LibreriaMatematica\obj\Debug\netcoreapp2.2\LibreriaMatematica.AssemblyInfo.cs
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\LibreriaMatematica\obj\Debug\netcoreapp2.2\LibreriaMatematica.dll
+C:\Users\formacion.GTT\source\repos\CursoGTT\10072019\LibreriaMatematica\obj\Debug\netcoreapp2.2\LibreriaMatematica.pdb
