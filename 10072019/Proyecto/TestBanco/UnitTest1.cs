@@ -111,8 +111,5 @@ namespace Tests
             //Aseveración
             Assert.AreEqual("12", s);
         }
-
-
-
     }
 }
